@@ -2,6 +2,8 @@ from datasets import load_dataset
 import openai
 import os
 import pandas as pd
+import json
+import numpy as np
 
 dev_data = []
 with open("WiC_dataset/dev/dev.data.txt") as file:
@@ -12,12 +14,14 @@ with open("WiC_dataset/dev/dev.data.txt") as file:
         dev_data.append((key, s1, s2))
 
 dev_gold = []
-with open("WiC_dataset/dev/dev.data.txt") as file:
+with open("WiC_dataset/dev/dev.gold.txt") as file:
     lines = file.readlines()
     dev_gold = ["True" if l.strip("\n") == "T" else "False" for l in lines]
 
+dev = list(zip(dev_data, dev_gold))
+
 train_data = []
-with open("WiC_dataset/dev/dev.data.txt") as file:
+with open("WiC_dataset/train/train.data.txt") as file:
     lines = file.readlines()
     for line in lines:
         l = line.strip().split("\t")
@@ -25,9 +29,11 @@ with open("WiC_dataset/dev/dev.data.txt") as file:
         train_data.append((key, s1, s2))
 
 train_gold = []
-with open("WiC_dataset/dev/dev.data.txt") as file:
+with open("WiC_dataset/train/train.gold.txt") as file:
     lines = file.readlines()
     train_gold = ["True" if l.strip("\n") == "T" else "False" for l in lines]
+
+train = list(zip(train_data, train_gold))
 
 
 # There should be a file called 'tokens.json' inside the same folder as this file
@@ -41,57 +47,54 @@ with open(token_path) as f:
     openai.api_key = tokens['openai_api_key']
 
 
-def classify(message, terrorism_examples, safe_examples):
+def formation(data_point):
+    keyword, s1, s2 = data_point
+    nl = '\n'
+    return f'Keyword: {keyword}{nl}Sentence1: {s1}{nl}Sentence2: {s2}' 
+
+def classify(examples_data, examples_label, querry_point):
+
+    gpt_message = [
+    {"role": "system", "content": "You are a word-sense disambiguation system. Given a key word and two sentences using that word, answer True if the key word has \
+        the same word sense in both sentences and False otherwise. The key may appear in slightly different forms in the two sentences."},
+    {"role": "user", "content": formation(examples_data[0])},
+    {"role": "assistant", "content": examples_label[0]},
+    {"role": "user", "content": formation(examples_data[1])},
+    {"role": "assistant", "content": examples_label[1]},
+    {"role": "user", "content": formation(examples_data[2])},
+    {"role": "assistant", "content": examples_label[2]},
+    {"role": "user", "content": formation(examples_data[3])},
+    {"role": "assistant", "content": examples_label[3]},
+    {"role": "user", "content": formation(examples_data[4])},
+    {"role": "assistant", "content": examples_label[4]},
+    {"role": "user", "content": formation(querry_point)}
+    ]
+
+    print(gpt_message)
 
     response = openai.ChatCompletion.create(
     model="gpt-4",
-    messages=[
-    {"role": "system", "content": "You are a content moderation system. Classify each input as either terrorism or safe."},
-    {"role": "user", "content": terrorism_examples[0]},
-    {"role": "assistant", "content": "terrorism"},
-    {"role": "user", "content": safe_examples[0]},
-    {"role": "assistant", "content": "safe"},
-    {"role": "user", "content": terrorism_examples[1]},
-    {"role": "assistant", "content": "terrorism"},
-    {"role": "user", "content": safe_examples[1]},
-    {"role": "assistant", "content": "safe"},
-    {"role": "user", "content": terrorism_examples[2]},
-    {"role": "assistant", "content": "terrorism"},
-    {"role": "user", "content": safe_examples[2]},
-    {"role": "assistant", "content": "safe"},
-    {"role": "user", "content": message}
-    ]
+    messages=gpt_message
     )
 
     output = response['choices'][0]['message']['content']
     return output
 
+NUM_EXAMPLES = 5
+indices = np.random.choice(np.arange(len(train)), NUM_EXAMPLES, replace=False)
+example_data_test = list(np.array(train_data)[indices])
+examples_label_test = list(np.array(train_gold)[indices])
 
-def evaluate(terrorism_data, safe_data, percentage_test = 0.001, num_example = 6):
-    terrorism_cutoff = int(np.ceil(len(terrorism_data) * percentage_test))
-    terrorism_train, terrorism_test = terrorism_data[terrorism_cutoff:], terrorism_data[:terrorism_cutoff]
-    safe_cutoff = int(np.ceil(len(safe_data) * percentage_test))
-    safe_train, safe_test = safe_data[safe_cutoff:], safe_data[:safe_cutoff]
+print(classify(example_data_test, examples_label_test, dev_data[0]))
+print(f'real answer: {dev_gold[0]}')
+print(example_data_test, examples_label_test)
 
+
+def evaluate(terrorism_data, safe_data, percentage_test = 0.001, num_example = 5):
 
     TP, FP, FN, TN = 0, 0, 0, 0
-    TP_tweet, FP_tweet, FN_tweet, TN_tweet = [], [], [], []
-    print("evaluating terrorism")
-    for terrorism_tweet in terrorism_test:
-        result = classify(terrorism_tweet,
-                          np.random.choice(terrorism_train, size=3, replace=False),
-                          np.random.choice(safe_train, size=3, replace=False))
-        if result == "terrorism":
-            TP += 1
-            TP_tweet.append([terrorism_tweet])
-        elif result == "safe":
-            FN += 1
-            FN_tweet.append([terrorism_tweet])
-            print(terrorism_tweet)
-        else:
-            print(result)
+    TP_data, FP_data, FN_data, TN_data = [], [], [], []
 
-    print("evaluating safe tweets")
     print(len(safe_test))
     for safe_tweet in safe_test:
         print(safe_tweet)
@@ -100,11 +103,11 @@ def evaluate(terrorism_data, safe_data, percentage_test = 0.001, num_example = 6
                           np.random.choice(safe_train, size=3, replace=False))
         if result == "terrorism":
             FP += 1
-            FP_tweet.append([safe_tweet])
+            FP_data.append([safe_tweet])
             print(safe_tweet)
         elif result == "safe":
             TN += 1
-            TN_tweet.append([safe_tweet])
+            TN_data.append([safe_tweet])
         else:
             print(result)
 
@@ -114,13 +117,13 @@ def evaluate(terrorism_data, safe_data, percentage_test = 0.001, num_example = 6
 
     with open(filename, 'w') as csvfile: 
         csvwriter = csv.writer(csvfile)
-        csvwriter.writerows(TP_tweet)
+        csvwriter.writerows(TP_data)
         csvwriter.writerows([[f'TP: {TP}']])
-        csvwriter.writerows(FN_tweet)
+        csvwriter.writerows(FN_data)
         csvwriter.writerows([[f'FN: {FN}']])
-        csvwriter.writerows(FP_tweet)
+        csvwriter.writerows(FP_data)
         csvwriter.writerows([[f'FP: {FP}']])
-        csvwriter.writerows(TN_tweet)
+        csvwriter.writerows(TN_data)
         csvwriter.writerows([[f'TN: {TN}']])
 
-evaluate(terrorism_data, safe_data, percentage_test=0.01)
+# evaluate(terrorism_data, safe_data, percentage_test=0.01)
