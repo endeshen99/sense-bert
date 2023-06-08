@@ -10,8 +10,21 @@ import sys
 print('Argument List:' + str(sys.argv))
 i = int(sys.argv[1])
 
+# dev_data = []
+# with open("WiC_dataset/dev/dev.data.txt") as file:
+#     lines = file.readlines()
+#     for line in lines:
+#         l = line.strip().split("\t")
+#         key, pos, locs, s1, s2 = l[0], l[1], l[2], l[3], l[4]
+#         dev_data.append((key, s1, s2))
+
+# dev_gold = []
+# with open("WiC_dataset/dev/dev.gold.txt") as file:
+#     lines = file.readlines()
+#     dev_gold = ["True" if l.strip("\n") == "T" else "False" for l in lines]
+
 dev_data = []
-with open("WiC_dataset/dev/dev.data.txt") as file:
+with open("WiC_dataset/test/test.data.txt") as file:
     lines = file.readlines()
     for line in lines:
         l = line.strip().split("\t")
@@ -19,9 +32,10 @@ with open("WiC_dataset/dev/dev.data.txt") as file:
         dev_data.append((key, s1, s2))
 
 dev_gold = []
-with open("WiC_dataset/dev/dev.gold.txt") as file:
+with open("WiC_dataset/test/test.gold.txt") as file:
     lines = file.readlines()
     dev_gold = ["True" if l.strip("\n") == "T" else "False" for l in lines]
+
 
 dev = list(zip(dev_data, dev_gold))
 
