@@ -1,0 +1,25 @@
+round: 1, dev_data: ('circulate', 'Circulate a rumor .', 'This letter is being circulated among the faculty .'), dev_label: False
+
+round: 4, dev_data: ('domesticity', 'Making a hobby of domesticity .', 'A royal family living in unpretentious domesticity .'), dev_label: False
+
+round: 5, dev_data: ('acquisition', "The child 's acquisition of language .", 'That graphite tennis racquet is quite an acquisition .'), dev_label: False
+
+round: 6, dev_data: ('meeting', 'There was no meeting of minds .', 'The meeting elected a chairperson .'), dev_label: False
+
+round: 9, dev_data: ('association', 'Conditioning is a form of learning by association .', 'Many close associations with England .'), dev_label: False
+
+round: 14, dev_data: ('belabor', 'Belabor the obvious .', 'She was belabored by her fellow students .'), dev_label: False
+
+round: 15, dev_data: ('bell', 'Bell cows .', 'Who will bell the cat ?'), dev_label: True
+
+round: 18, dev_data: ('analyze', 'Analyze your real motives .', "The inspector analyzed the building 's soundness ."), dev_label: True
+
+round: 23, dev_data: ('assurance', 'An assurance of help when needed .', 'His assurance in his superiority did not make him popular .'), dev_label: False
+
+round: 29, dev_data: ('response', 'This situation developed in response to events in Africa .', 'His responses have slowed with age .'), dev_label: False
+
+round: 41, dev_data: ('question', 'His claim to the property has come under question .', 'He obeyed without question .'), dev_label: True
+
+round: 43, dev_data: ('return', 'Return her love .', 'Return a compliment .'), dev_label: True
+
+round: 45, dev_data: ('clutch', 'To clutch power .', 'She clutched her purse .'), dev_label: True

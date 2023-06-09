@@ -4,9 +4,27 @@ import os
 import pandas as pd
 import json
 import numpy as np
+import time
+import sys
+
+print('Argument List:' + str(sys.argv))
+i = int(sys.argv[1])
+
+# dev_data = []
+# with open("WiC_dataset/dev/dev.data.txt") as file:
+#     lines = file.readlines()
+#     for line in lines:
+#         l = line.strip().split("\t")
+#         key, pos, locs, s1, s2 = l[0], l[1], l[2], l[3], l[4]
+#         dev_data.append((key, s1, s2))
+
+# dev_gold = []
+# with open("WiC_dataset/dev/dev.gold.txt") as file:
+#     lines = file.readlines()
+#     dev_gold = ["True" if l.strip("\n") == "T" else "False" for l in lines]
 
 dev_data = []
-with open("WiC_dataset/dev/dev.data.txt") as file:
+with open("WiC_dataset/test/test.data.txt") as file:
     lines = file.readlines()
     for line in lines:
         l = line.strip().split("\t")
@@ -14,9 +32,10 @@ with open("WiC_dataset/dev/dev.data.txt") as file:
         dev_data.append((key, s1, s2))
 
 dev_gold = []
-with open("WiC_dataset/dev/dev.gold.txt") as file:
+with open("WiC_dataset/test/test.gold.txt") as file:
     lines = file.readlines()
     dev_gold = ["True" if l.strip("\n") == "T" else "False" for l in lines]
+
 
 dev = list(zip(dev_data, dev_gold))
 
@@ -70,7 +89,7 @@ def classify(examples_data, examples_label, querry_point):
     {"role": "user", "content": formation(querry_point)}
     ]
 
-    print(gpt_message)
+    # print(gpt_message)
 
     response = openai.ChatCompletion.create(
     model="gpt-4",
@@ -90,40 +109,46 @@ print(f'real answer: {dev_gold[0]}')
 print(example_data_test, examples_label_test)
 
 
-def evaluate(terrorism_data, safe_data, percentage_test = 0.001, num_example = 5):
 
-    TP, FP, FN, TN = 0, 0, 0, 0
-    TP_data, FP_data, FN_data, TN_data = [], [], [], []
+TP, FP, FN, TN = 0, 0, 0, 0
+TP_data, FP_data, FN_data, TN_data = [], [], [], []
 
-    print(len(safe_test))
-    for safe_tweet in safe_test:
-        print(safe_tweet)
-        result = classify(safe_tweet,
-                          np.random.choice(terrorism_train, size=3, replace=False),
-                          np.random.choice(safe_train, size=3, replace=False))
-        if result == "terrorism":
-            FP += 1
-            FP_data.append([safe_tweet])
-            print(safe_tweet)
-        elif result == "safe":
-            TN += 1
-            TN_data.append([safe_tweet])
+
+while i < len(dev_data):
+
+    dev_data_single = dev_data[i]
+    dev_data_gold = dev_gold[i]
+    print(f'round: {i}, dev_data: {dev_data_single}, dev_label: {dev_data_gold}')
+
+    indices = np.random.choice(np.arange(len(train)), NUM_EXAMPLES, replace=False)
+    example_data_test = list(np.array(train_data)[indices])
+    examples_label_test = list(np.array(train_gold)[indices])
+
+    while all([single_lable == "True" for single_lable in examples_label_test]) or all([single_lable == "False" for single_lable in examples_label_test]):
+        indices = np.random.choice(np.arange(len(train)), NUM_EXAMPLES, replace=False)
+        example_data_test = list(np.array(train_data)[indices])
+        examples_label_test = list(np.array(train_gold)[indices])
+    
+    print(example_data_test, examples_label_test)
+    try:
+        result = classify(example_data_test, examples_label_test, dev_data_single)
+        print(f'prediction: {result}')
+    
+        if dev_data_gold == "True":
+            if result == "True":
+                TP += 1
+            else:
+                FN += 1
         else:
-            print(result)
+            if result == "True":
+                FP += 1
+            else:
+                TN += 1
+        print(TP, FP, FN, TN)
+        i += 1
+    except:
+        print("error")
+        time.sleep(3)
+        continue
 
-    print(TP, FP, FN, TN)
-
-    filename = "tweets_classified.csv"
-
-    with open(filename, 'w') as csvfile: 
-        csvwriter = csv.writer(csvfile)
-        csvwriter.writerows(TP_data)
-        csvwriter.writerows([[f'TP: {TP}']])
-        csvwriter.writerows(FN_data)
-        csvwriter.writerows([[f'FN: {FN}']])
-        csvwriter.writerows(FP_data)
-        csvwriter.writerows([[f'FP: {FP}']])
-        csvwriter.writerows(TN_data)
-        csvwriter.writerows([[f'TN: {TN}']])
-
-# evaluate(terrorism_data, safe_data, percentage_test=0.01)
+print("success")
