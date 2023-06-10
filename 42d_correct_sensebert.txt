@@ -1,0 +1,900 @@
+Target word: rapid
+Key: 42D.d000.s002.t002
+Sentence: Some are rapid swimmers gathered together in silvery shoals, others sluggish bottom-dwellers spending most of their time buried in sediment.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: shoals
+Key: 42D.d000.s002.t008
+Sentence: Some are rapid swimmers gathered together in silvery shoals, others sluggish bottom-dwellers spending most of their time buried in sediment.
+Prediction: noun.group
+Actual Sense: noun.group
+
+Target word: modified
+Key: 42D.d000.s003.t017
+Sentence: Most have a characteristic arrangement of paired fins, but these can be lost, or fantastically modified to form fans or poisonous barbs.
+Prediction: verb.change
+Actual Sense: verb.change
+
+Target word: form
+Key: 42D.d000.s003.t019
+Sentence: Most have a characteristic arrangement of paired fins, but these can be lost, or fantastically modified to form fans or poisonous barbs.
+Prediction: verb.change
+Actual Sense: verb.change
+
+Target word: evolution
+Key: 42D.d000.s005.t003
+Sentence: Their rapidity of evolution is well-known: dozens of species have evolved in African fresh water lakes within the last million years.
+Prediction: noun.process
+Actual Sense: noun.process
+
+Target word: range
+Key: 42D.d000.s006.t005
+Sentence: They have as wide a range of life habits as any group, from scavengers, grazers, filter feeders, vegetarians, omnivores, to fierce predators with reputations to rival that of the sharks.
+Prediction: noun.group
+Actual Sense: noun.group
+
+Target word: scavengers
+Key: 42D.d000.s006.t014
+Sentence: They have as wide a range of life habits as any group, from scavengers, grazers, filter feeders, vegetarians, omnivores, to fierce predators with reputations to rival that of the sharks.
+Prediction: noun.animal
+Actual Sense: noun.animal
+
+Target word: omnivores
+Key: 42D.d000.s006.t023
+Sentence: They have as wide a range of life habits as any group, from scavengers, grazers, filter feeders, vegetarians, omnivores, to fierce predators with reputations to rival that of the sharks.
+Prediction: noun.animal
+Actual Sense: noun.animal
+
+Target word: gills
+Key: 42D.d000.s007.t009
+Sentence: A coating of scales is characteristic, and the gills are covered by a movable flap (the operculum).
+Prediction: noun.animal
+Actual Sense: noun.animal
+
+Target word: movable
+Key: 42D.d000.s007.t014
+Sentence: A coating of scales is characteristic, and the gills are covered by a movable flap (the operculum).
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: frontages
+Key: 42D.d001.s006.t006
+Sentence: Styles vary from Jacobean with multi-gabled frontages to ‘ Tudorbethan ’ with battlements and pinnacles.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: memorial
+Key: 42D.d001.s007.t014
+Sentence: Take time to look at the corner of the Hospital wall where stands a memorial to King Edward VII surmounted by a bronze of St. George and the Dragon by the eminent sculptor Sir George Frampton.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: bronze
+Key: 42D.d001.s007.t021
+Sentence: Take time to look at the corner of the Hospital wall where stands a memorial to King Edward VII surmounted by a bronze of St. George and the Dragon by the eminent sculptor Sir George Frampton.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: Sir
+Key: 42D.d001.s007.t028
+Sentence: Take time to look at the corner of the Hospital wall where stands a memorial to King Edward VII surmounted by a bronze of St. George and the Dragon by the eminent sculptor Sir George Frampton.
+Prediction: noun.person
+Actual Sense: noun.person
+
+Target word: Owen
+Key: 42D.d002.s000.t003
+Sentence: In Britain, Owen and Mivart argued that many cases of evolution consisted of parallel lines of development within the same group, all driven in the same direction as though by an internally programmed force.
+Prediction: noun.person
+Actual Sense: noun.person
+
+Target word: evolution
+Key: 42D.d002.s000.t011
+Sentence: In Britain, Owen and Mivart argued that many cases of evolution consisted of parallel lines of development within the same group, all driven in the same direction as though by an internally programmed force.
+Prediction: noun.process
+Actual Sense: noun.process
+
+Target word: tree
+Key: 42D.d002.s001.t007
+Sentence: Darwin 's image of an irregularly branching tree thus did not fit the evidence.
+Prediction: noun.shape
+Actual Sense: noun.shape
+
+Target word: evolution
+Key: 42D.d002.s002.t019
+Sentence: The American neo-Lamarckians made the same point, arguing that the fossils seemed to support a theory of directed evolution, not one based on the selection of random variation by the local environment.
+Prediction: noun.process
+Actual Sense: noun.process
+
+Target word: inheritance
+Key: 42D.d002.s003.t001
+Sentence: The inheritance of acquired characters explained these trends as a consequence of the animals specializing for a particular way of life chosen by their ancestors.
+Prediction: noun.attribute
+Actual Sense: noun.attribute
+
+Target word: characters
+Key: 42D.d002.s003.t004
+Sentence: The inheritance of acquired characters explained these trends as a consequence of the animals specializing for a particular way of life chosen by their ancestors.
+Prediction: noun.attribute
+Actual Sense: noun.attribute
+
+Target word: evolution
+Key: 42D.d002.s005.t015
+Sentence: Hyatt in particular argued that the fossil invertebrates he studied showed patterns of progressive, Lamarckian evolution followed by an inexorable decline into racial senility and extinction.
+Prediction: noun.process
+Actual Sense: noun.process
+
+Target word: shrew
+Key: 42D.d003.s000.t002
+Sentence: This short-tailed shrew can inflict an unpleasant bite with the help of spittle from its venomous salivary glands.
+Prediction: noun.animal
+Actual Sense: noun.animal
+
+Target word: fangs
+Key: 42D.d003.s001.t027
+Sentence: As the teeth sink into the flesh, the pressure of this action squeezes venom out of the glands and down the hollow tubes of the paired fangs.
+Prediction: noun.animal
+Actual Sense: noun.animal
+
+Target word: single
+Key: 42D.d004.s005.t016
+Sentence: As Robert points out this is the first time that this function has been run as a single corporate entity.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: distraction
+Key: 42D.d006.s003.t022
+Sentence: Otherwise, one 's eye will be drawn to the darkest flower or leaf in the picture, which will act as a distraction from the overall shape and impact of the picture.
+Prediction: noun.cognition
+Actual Sense: noun.cognition
+
+Target word: really
+Key: 42D.d006.s005.t016
+Sentence: A subtle blend of golden yellows, reds and browns can be spoilt by using a really overpowering bright orange flower right in the middle of the design.
+Prediction: adv.all
+Actual Sense: adv.all
+
+Target word: vivid
+Key: 42D.d006.s006.t026
+Sentence: It would be much better to use several bright orange and bright yellow flowers, plus some strong-coloured leaves, to make a very striking and vivid picture.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: brilliant
+Key: 42D.d006.s007.t003
+Sentence: If you use brilliant white flowers, such as larkspur or some of the daisies, you must ensure that there are several light tones in the picture, otherwise one 's eye will automatically focus on the white flowers and only then fall back on to the rest of the picture.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: universities
+Key: 42D.d007.s003.t022
+Sentence: Some would like the elitist trend to permeate even further, in the form of elite faculties, or even whole elite universities.
+Prediction: noun.group
+Actual Sense: noun.group
+
+Target word: screwing
+Key: 42D.d008.s003.t009
+Sentence: This 9.6 volt machine was put to the test screwing plasterboard to timber beams, without pilot holes.
+Prediction: verb.contact
+Actual Sense: verb.contact
+
+Target word: performance
+Key: 42D.d008.s005.t004
+Sentence: Makita has published estimated performance figures with a range of screws/bits, into a variety of materials, in the instruction booklet.
+Prediction: noun.process
+Actual Sense: noun.process
+
+Target word: performance
+Key: 42D.d008.s007.t010
+Sentence: If nothing else, it gives an indication of the performance to be expected from a well-maintained battery.
+Prediction: noun.process
+Actual Sense: noun.process
+
+Target word: pad
+Key: 42D.d008.s008.t025
+Sentence: As would be expected from one of the three largest power tool manufacturers, there is a host of accessories on offer, from a polishing pad to a range of 28 screwdriver bits.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: range
+Key: 42D.d008.s008.t028
+Sentence: As would be expected from one of the three largest power tool manufacturers, there is a host of accessories on offer, from a polishing pad to a range of 28 screwdriver bits.
+Prediction: noun.group
+Actual Sense: noun.group
+
+Target word: bits
+Key: 42D.d008.s008.t032
+Sentence: As would be expected from one of the three largest power tool manufacturers, there is a host of accessories on offer, from a polishing pad to a range of 28 screwdriver bits.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: Sudan
+Key: 42D.d009.s004.t012
+Sentence: The true pastoralists, such as the Fulani, the Dinka of southern Sudan and the Masai of the east African plains were in a different category.
+Prediction: noun.location
+Actual Sense: noun.location
+
+Target word: annually
+Key: 42D.d010.s000.t006
+Sentence: Tourist numbers currently total 50 million annually, and demand is expected to continue growing well into the next century.
+Prediction: adv.all
+Actual Sense: adv.all
+
+Target word: deforestation
+Key: 42D.d010.s001.t001
+Sentence: Widespread deforestation to make way for ski slopes has eroded topsoil, increasing the incidence of avalanches.
+Prediction: noun.act
+Actual Sense: noun.act
+
+Target word: Alpine
+Key: 42D.d010.s002.t006
+Sentence: Large numbers of rare and beautiful Alpine plants are threatened with extinction.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: ancestral
+Key: 42D.d010.s007.t022
+Sentence: To mark the 700th anniversary of the founding of the Swiss Confederation, Alp Action is reintroducing the bearded vulture (lammergeyer) to its ancestral home in the Swiss Alps.
+Prediction: adj.pert
+Actual Sense: adj.pert
+
+Target word: often
+Key: 42D.d011.s000.t036
+Sentence: On waters which can not be baited from a boat, and where swims are too distant to be fed by catapult, the use of a swimfeeder to distribute loose feed around the hookbait is often a deadly method.
+Prediction: adv.all
+Actual Sense: adv.all
+
+Target word: feeder
+Key: 42D.d011.s001.t024
+Sentence: Where the bottom is weedy (ordinary soft weed, not algae) you can incorporate a cork or piece of polystyrene into the feeder to keep it on top of the weed.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: anglers
+Key: 42D.d011.s003.t001
+Sentence: Some anglers use three rods, but I have found that at least one of these tends to be neglected.
+Prediction: noun.person
+Actual Sense: noun.person
+
+Target word: combines
+Key: 42D.d012.s000.t022
+Sentence: As brewers pay lower rates of excise duty on weaker beers, lager is a highly profitable business for the giant brewing combines.
+Prediction: noun.group
+Actual Sense: noun.group
+
+Target word: vessels
+Key: 42D.d012.s003.t043
+Sentence: In order to further speed and cheapen the process, inferior ingredients such as maize, rice, triticale, wheat flour and potato starch are used and helped on their way by chemicals that hasten fermentation, cut down on the yeast head in the vessels to allow more wort to be treated, and to give a lively fake head to the finished product.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: wort
+Key: 42D.d012.s003.t047
+Sentence: In order to further speed and cheapen the process, inferior ingredients such as maize, rice, triticale, wheat flour and potato starch are used and helped on their way by chemicals that hasten fermentation, cut down on the yeast head in the vessels to allow more wort to be treated, and to give a lively fake head to the finished product.
+Prediction: noun.food
+Actual Sense: noun.food
+
+Target word: malt
+Key: 42D.d012.s005.t016
+Sentence: Drinkers have a right to know whether the beer they are drinking is a genuine barley malt product or whether it is stuffed full of such tasty ingredients as corn syrup, propylene glycol alginate, amyloglucosidase, papain enzymes and potassium metabisulphite.
+Prediction: noun.food
+Actual Sense: noun.food
+
+Target word: south
+Key: 42D.d013.s000.t019
+Sentence: The first cairned top, High Pike Hill, is then quickly attained and soon the rim of cliffs trends due south, giving direction to the walk and providing aerial views of Mallerstang below.
+Prediction: noun.relation
+Actual Sense: noun.relation
+
+Target word: height
+Key: 42D.d013.s002.t031
+Sentence: Beyond, the Edge becomes less well defined and is succeeded by steep slopes, surmounted by inclining eastwards and following the county boundary and the watershed and keeping always to the height of land in surroundings of utter desolation yet of profound influence on the landscape, for three major rivers have their source hereabouts: the streams flowing east are tributaries of the River Swale, those to the west drain an area known as Eden Springs, the source of the River Eden, and a short distance to the south are the beginnings of the River Ure.
+Prediction: noun.attribute
+Actual Sense: noun.attribute
+
+Target word: utter
+Key: 42D.d013.s002.t037
+Sentence: Beyond, the Edge becomes less well defined and is succeeded by steep slopes, surmounted by inclining eastwards and following the county boundary and the watershed and keeping always to the height of land in surroundings of utter desolation yet of profound influence on the landscape, for three major rivers have their source hereabouts: the streams flowing east are tributaries of the River Swale, those to the west drain an area known as Eden Springs, the source of the River Eden, and a short distance to the south are the beginnings of the River Ure.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: desolation
+Key: 42D.d013.s002.t038
+Sentence: Beyond, the Edge becomes less well defined and is succeeded by steep slopes, surmounted by inclining eastwards and following the county boundary and the watershed and keeping always to the height of land in surroundings of utter desolation yet of profound influence on the landscape, for three major rivers have their source hereabouts: the streams flowing east are tributaries of the River Swale, those to the west drain an area known as Eden Springs, the source of the River Eden, and a short distance to the south are the beginnings of the River Ure.
+Prediction: noun.state
+Actual Sense: noun.state
+
+Target word: yet
+Key: 42D.d013.s002.t039
+Sentence: Beyond, the Edge becomes less well defined and is succeeded by steep slopes, surmounted by inclining eastwards and following the county boundary and the watershed and keeping always to the height of land in surroundings of utter desolation yet of profound influence on the landscape, for three major rivers have their source hereabouts: the streams flowing east are tributaries of the River Swale, those to the west drain an area known as Eden Springs, the source of the River Eden, and a short distance to the south are the beginnings of the River Ure.
+Prediction: adv.all
+Actual Sense: adv.all
+
+Target word: west
+Key: 42D.d013.s002.t069
+Sentence: Beyond, the Edge becomes less well defined and is succeeded by steep slopes, surmounted by inclining eastwards and following the county boundary and the watershed and keeping always to the height of land in surroundings of utter desolation yet of profound influence on the landscape, for three major rivers have their source hereabouts: the streams flowing east are tributaries of the River Swale, those to the west drain an area known as Eden Springs, the source of the River Eden, and a short distance to the south are the beginnings of the River Ure.
+Prediction: noun.relation
+Actual Sense: noun.relation
+
+Target word: south
+Key: 42D.d013.s002.t088
+Sentence: Beyond, the Edge becomes less well defined and is succeeded by steep slopes, surmounted by inclining eastwards and following the county boundary and the watershed and keeping always to the height of land in surroundings of utter desolation yet of profound influence on the landscape, for three major rivers have their source hereabouts: the streams flowing east are tributaries of the River Swale, those to the west drain an area known as Eden Springs, the source of the River Eden, and a short distance to the south are the beginnings of the River Ure.
+Prediction: noun.relation
+Actual Sense: noun.relation
+
+Target word: happy
+Key: 42D.d015.s000.t028
+Sentence: Inevitably, writing for the Cornhill gave him a first experience of the restrictions imposed on authors by the readers of quality magazines, but for the time being he was happy to compromise in the interests of his career.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: track
+Key: 42D.d016.s000.t038
+Sentence: ‘ That song had so many lyrics and different types of music in there, that I did n't think it 'd go the distance. But when people like Norman Jay and Omar said they were into the track, it sort of backed up in my own mind that it was a safe tune — they 're not the sort of people who give you compliments just to make you smile. ’
+Prediction: noun.communication
+Actual Sense: noun.communication
+
+Target word: forthcoming
+Key: 42D.d016.s001.t011
+Sentence: And it 's easy to see why critical acclaim was so forthcoming.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: funk
+Key: 42D.d016.s003.t011
+Sentence: ‘ It 's not pure jazz and it ai n't pure funk, ’ he explains.
+Prediction: noun.communication
+Actual Sense: noun.communication
+
+Target word: philosophies
+Key: 42D.d016.s005.t023
+Sentence: Now signed to Sony for an eight-album deal, Jamiroquai is adamant that he will not be called upon to compromise his musical philosophies, relishing the fact that the lengthy deal will enable him to take his experimental visions further.
+Prediction: noun.cognition
+Actual Sense: noun.cognition
+
+Target word: kinks
+Key: 42D.d017.s010.t012
+Sentence: Men like this never stop talking about ‘ stunt sex ’ and new kinks.
+Prediction: noun.cognition
+Actual Sense: noun.cognition
+
+Target word: acute
+Key: 42D.d018.s002.t018
+Sentence: Britain 's costliest player rounded the keeper but Duffy got back to block the former Dundee United man 's acute angled effort.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: finishing
+Key: 42D.d018.s003.t003
+Sentence: In fact, better finishing from the Den Park 's outfit would have increased Rangers ' embarrassment but they were let off the hook on a number of occasions, particularly by Dodds.
+Prediction: noun.act
+Actual Sense: noun.act
+
+Target word: particularly
+Key: 42D.d018.s003.t026
+Sentence: In fact, better finishing from the Den Park 's outfit would have increased Rangers ' embarrassment but they were let off the hook on a number of occasions, particularly by Dodds.
+Prediction: adv.all
+Actual Sense: adv.all
+
+Target word: headers
+Key: 42D.d018.s004.t013
+Sentence: Either side of the interval the tiny striker had chances to convert simple headers but pushed one wide of the post and saw Maxwell claw the other over the bar.
+Prediction: noun.act
+Actual Sense: noun.act
+
+Target word: shot
+Key: 42D.d018.s006.t017
+Sentence: Trevor Steven went close with a volley from the edge of the box while Dusan Vrto kicked an Ian Ferguson shot off the line.
+Prediction: noun.act
+Actual Sense: noun.act
+
+Target word: height
+Key: 42D.d019.s000.t013
+Sentence: With that comparatively primitive system we were able to fly down to a height of 200 feet above the runway.
+Prediction: noun.attribute
+Actual Sense: noun.attribute
+
+Target word: runway
+Key: 42D.d019.s000.t019
+Sentence: With that comparatively primitive system we were able to fly down to a height of 200 feet above the runway.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: refined
+Key: 42D.d019.s001.t011
+Sentence: It was not so different from the modern, much more refined auto-landing system we take for granted today.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: airline
+Key: 42D.d019.s003.t008
+Sentence: Turbine engines had not been introduced into regular airline use when I joined the branch; also one 's practical application of aerodynamics had to be radically modified to cope with the characteristics of high-speed flight with swept wings and all the associated developments that went with this revolution in flying.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: modified
+Key: 42D.d019.s003.t026
+Sentence: Turbine engines had not been introduced into regular airline use when I joined the branch; also one 's practical application of aerodynamics had to be radically modified to cope with the characteristics of high-speed flight with swept wings and all the associated developments that went with this revolution in flying.
+Prediction: verb.change
+Actual Sense: verb.change
+
+Target word: So
+Key: 42D.d019.s004.t000
+Sentence: So the challenge to keep abreast of technological developments in aviation was one I entered into with considerable enthusiasm when I was appointed Deputy Chief Inspector in 1967.
+Prediction: adv.all
+Actual Sense: adv.all
+
+Target word: west
+Key: 42D.d020.s001.t019
+Sentence: The first was for Lieutenant Harry Poat to take a jeep patrol to create as much havoc as possible to the west of Tripoli, while the main army attack went in.
+Prediction: noun.location
+Actual Sense: noun.location
+
+Target word: expand
+Key: 42D.d020.s006.t028
+Sentence: Between Tripoli and Gabes, there was a fortified belt known as the Mareth line which had been built before the war by the French to hinder Italian ambitions to expand their empire into Tunisia.
+Prediction: verb.change
+Actual Sense: verb.change
+
+Target word: Montgomery
+Key: 42D.d020.s007.t000
+Sentence: Montgomery wanted a reconnaissance of this stretch of bunkers and anti-tank ditches to see if it was being put into a state of defence and if it could be outflanked to the south.
+Prediction: noun.person
+Actual Sense: noun.person
+
+Target word: tons
+Key: 42D.d021.s003.t006
+Sentence: On the first day, five tons of cable were towed forward on sledges by tanks, together with 120 poles, numerous telephones and their exchanges.
+Prediction: noun.quantity
+Actual Sense: noun.quantity
+
+Target word: correlated
+Key: 42D.d021.s006.t005
+Sentence: There, specially trained officers correlated all incoming information before signalling a general report to the rear.
+Prediction: verb.cognition
+Actual Sense: verb.cognition
+
+Target word: manual
+Key: 42D.d021.s007.t001
+Sentence: Other manual methods of signalling included flags, arc lights operated by gas, and heliographs whose flashing signals could be read by telescope.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: rich
+Key: 42D.d022.s000.t003
+Sentence: Fourth, this rich and complex information environment is worthless unless users can easily find their way around it, locating and accessing the information they require.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: storage
+Key: 42D.d022.s002.t009
+Sentence: The large memory requirements suggest the use of optical disc storage.
+Prediction: noun.process
+Actual Sense: noun.process
+
+Target word: performance
+Key: 42D.d022.s003.t009
+Sentence: The demanding processing requirements imply very fast, high performance computers, probably equipped with special chip sets either to compress and decompress the fast-changing, high volume information flows or to digitise sources of information drawn into the multimedia environment which are not initially in digital form.
+Prediction: noun.process
+Actual Sense: noun.process
+
+Target word: chip
+Key: 42D.d022.s003.t016
+Sentence: The demanding processing requirements imply very fast, high performance computers, probably equipped with special chip sets either to compress and decompress the fast-changing, high volume information flows or to digitise sources of information drawn into the multimedia environment which are not initially in digital form.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: architectures
+Key: 42D.d022.s004.t005
+Sentence: Output and display requirements dictate architectures which support high-resolution colour graphics, can display both RGB (‘ Red-Green-Blue ’, the colour screen standard in which the three basic colours remain individually controllable) and composite video information, and provide an audio capability able to handle anything from a feeble bleep to high fidelity stereo.
+Prediction: noun.attribute
+Actual Sense: noun.attribute
+
+Target word: video
+Key: 42D.d022.s004.t037
+Sentence: Output and display requirements dictate architectures which support high-resolution colour graphics, can display both RGB (‘ Red-Green-Blue ’, the colour screen standard in which the three basic colours remain individually controllable) and composite video information, and provide an audio capability able to handle anything from a feeble bleep to high fidelity stereo.
+Prediction: noun.communication
+Actual Sense: noun.communication
+
+Target word: feeble
+Key: 42D.d022.s004.t051
+Sentence: Output and display requirements dictate architectures which support high-resolution colour graphics, can display both RGB (‘ Red-Green-Blue ’, the colour screen standard in which the three basic colours remain individually controllable) and composite video information, and provide an audio capability able to handle anything from a feeble bleep to high fidelity stereo.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: interface
+Key: 42D.d022.s006.t009
+Sentence: In other words, a successful multimedia system must offer an interface with its user, so friendly that it is effectively transparent.
+Prediction: noun.communication
+Actual Sense: noun.communication
+
+Target word: friendly
+Key: 42D.d022.s006.t015
+Sentence: In other words, a successful multimedia system must offer an interface with its user, so friendly that it is effectively transparent.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: transparent
+Key: 42D.d022.s006.t020
+Sentence: In other words, a successful multimedia system must offer an interface with its user, so friendly that it is effectively transparent.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: links
+Key: 42D.d023.s003.t010
+Sentence: In sum, Pakistani immigrants in Rochdale maintain very close links with members of their family, distant or near, through exchanges of goods and services, loans of money in times of need, active social contact and advice (or instruction) on important decisions.
+Prediction: noun.state
+Actual Sense: noun.state
+
+Target word: gambit
+Key: 42D.d024.s000.t001
+Sentence: This gambit, which Short has never played before, is almost never seen at the top level.
+Prediction: noun.act
+Actual Sense: noun.act
+
+Target word: pieces
+Key: 42D.d024.s001.t006
+Sentence: Since the player of the white pieces can achieve a small but comfortable advantage against this manoeuvre with very little difficulty, it was a bad choice against Karpov, a player who is past master at exploiting small advantages.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: comfortable
+Key: 42D.d024.s001.t012
+Sentence: Since the player of the white pieces can achieve a small but comfortable advantage against this manoeuvre with very little difficulty, it was a bad choice against Karpov, a player who is past master at exploiting small advantages.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: manoeuvre
+Key: 42D.d024.s001.t016
+Sentence: Since the player of the white pieces can achieve a small but comfortable advantage against this manoeuvre with very little difficulty, it was a bad choice against Karpov, a player who is past master at exploiting small advantages.
+Prediction: noun.act
+Actual Sense: noun.act
+
+Target word: move
+Key: 42D.d024.s002.t013
+Sentence: Karpov played a relatively recent refinement of white 's play on the seventh move.
+Prediction: noun.act
+Actual Sense: noun.act
+
+Target word: move
+Key: 42D.d024.s004.t001
+Sentence: On move 11 Short had to allow a weakening of his pawn structure and then he chose to sacrifice a pawn instead of defending an endgame and struggling for a draw.
+Prediction: noun.act
+Actual Sense: noun.act
+
+Target word: endgame
+Key: 42D.d024.s004.t024
+Sentence: On move 11 Short had to allow a weakening of his pawn structure and then he chose to sacrifice a pawn instead of defending an endgame and struggling for a draw.
+Prediction: noun.event
+Actual Sense: noun.event
+
+Target word: pawn
+Key: 42D.d024.s005.t012
+Sentence: This soon looked like an unobjective decision, as Karpov secured his pawn advantage.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: king
+Key: 42D.d024.s006.t020
+Sentence: As time trouble approached, Short went for a wild kingside attack, but Karpov played well and it was Short 's king which proved the weaker.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: weaker
+Key: 42D.d024.s006.t024
+Sentence: As time trouble approached, Short went for a wild kingside attack, but Karpov played well and it was Short 's king which proved the weaker.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: pieces
+Key: 42D.d024.s007.t016
+Sentence: In yesterday 's second game Short had soon obtained a slight advantage playing with the white pieces, but as the players again ran short of time Karpov obtained strong counterplay on the queenside.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: intrusion
+Key: 42D.d025.s007.t022
+Sentence: If you reflect for a moment on which areas are likely to have rocks under tension, and where cracking and dyke intrusion are likely, you will realize that the mid-ocean ridges are hot favourites for this kind of activity.
+Prediction: noun.process
+Actual Sense: noun.process
+
+Target word: predicate
+Key: 42D.d026.s004.t020
+Sentence: Conjunctions and disjuncts aside, there tends to be a very high correlation between theme/rheme and subject/predicate in the Hallidayan model (cf. the Prague position, section 5.2).
+Prediction: noun.communication
+Actual Sense: noun.communication
+
+Target word: predicate
+Key: 42D.d026.s005.t039
+Sentence: The correlation does not hold in the case of marked themes as we shall see shortly, but, generally speaking, the distinction between theme and rheme is more or less identical to the traditional grammatical distinction between subject and predicate.
+Prediction: noun.communication
+Actual Sense: noun.communication
+
+Target word: predicate
+Key: 42D.d026.s006.t024
+Sentence: In fact, Plato, who as far back as the fourth century BC had divided the sentence into what we now know as subject and predicate, used the terms ónoma and rhema (which originally meant ‘ name ’ and ‘ saying ’ respectively).
+Prediction: noun.communication
+Actual Sense: noun.communication
+
+Target word: offended
+Key: 42D.d027.s000.t021
+Sentence: The special interest groups were influential and research was encouraged into the causes of crime and the treatment of those who had offended.
+Prediction: verb.social
+Actual Sense: verb.social
+
+Target word: criminal
+Key: 42D.d027.s008.t006
+Sentence: Financial compensation became available for the first time for criminal injuries; the community service order raised hopes as an alternative to custody; and an elaborate system of parole, later greatly expanded, was instituted.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: parole
+Key: 42D.d027.s008.t025
+Sentence: Financial compensation became available for the first time for criminal injuries; the community service order raised hopes as an alternative to custody; and an elaborate system of parole, later greatly expanded, was instituted.
+Prediction: noun.act
+Actual Sense: noun.act
+
+Target word: dipped
+Key: 42D.d029.s003.t022
+Sentence: The first heavy drops splashed in coin shapes on the pavement below and in their tubs the pink flowers on the forecourt dipped and swayed.
+Prediction: verb.motion
+Actual Sense: verb.motion
+
+Target word: head
+Key: 42D.d030.s001.t003
+Sentence: Abaft the after head is a large locker accessed either through a door in the head or from the cockpit.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: head
+Key: 42D.d030.s001.t015
+Sentence: Abaft the after head is a large locker accessed either through a door in the head or from the cockpit.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: so
+Key: 42D.d030.s002.t010
+Sentence: On deck the J/44 is very much a performance yacht, so the deck is laid out mainly for racing although careful thought has been given to cruising requirements.
+Prediction: adv.all
+Actual Sense: adv.all
+
+Target word: roller
+Key: 42D.d030.s003.t016
+Sentence: In an effort to keep weight out of the eyes of the yacht, the stemhead roller may be unshipped when not in use and stowed away further aft.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: bolt
+Key: 42D.d030.s006.t012
+Sentence: The after legs of the bow pulpit were secured by a single bolt each — we hope that this will be remedied.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: substantial
+Key: 42D.d030.s007.t008
+Sentence: Wide side decks and a long run of substantial grabrail on each side of the coachroof allow a secure passage to and from the foredeck.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: beam
+Key: 42D.d030.s008.t017
+Sentence: There is a handy boarding gate in the lifelines on each side at the point of maximum beam.
+Prediction: noun.attribute
+Actual Sense: noun.attribute
+
+Target word: emergent
+Key: 42D.d031.s001.t003
+Sentence: For centuries the emergent states had to limit their ambitions to silver pennies, successors of the denarius.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: struck
+Key: 42D.d031.s002.t006
+Sentence: The first English gold coin was struck only in 1255 and it was not until 1344 that the country was able to begin to sustain what proved to be no more than half a millennium of minting a gold denomination in its regular coinage.
+Prediction: verb.creation
+Actual Sense: verb.creation
+
+Target word: only
+Key: 42D.d031.s002.t007
+Sentence: The first English gold coin was struck only in 1255 and it was not until 1344 that the country was able to begin to sustain what proved to be no more than half a millennium of minting a gold denomination in its regular coinage.
+Prediction: adv.all
+Actual Sense: adv.all
+
+Target word: designating
+Key: 42D.d031.s003.t015
+Sentence: When the United States regulated its coinage under the legislation of 1792 it displayed independence by designating the silver dollar as the basic unit.
+Prediction: verb.cognition
+Actual Sense: verb.cognition
+
+Target word: eagles
+Key: 42D.d031.s005.t001
+Sentence: Gold eagles were struck to save handling so many dollar pieces, and bronze was needed to provide small change.
+Prediction: noun.possession
+Actual Sense: noun.possession
+
+Target word: distinct
+Key: 42D.d032.s000.t007
+Sentence: But perhaps this shift is not so distinct: for the interaction of power and resistance, which mimes the mutual contamination and transmutation of Freud 's death-drive and pleasure principle, also operates as a simulacrum of the ungraspable, vacillating manoeuvres of Foucault 's formulations of history.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: mutual
+Key: 42D.d032.s000.t020
+Sentence: But perhaps this shift is not so distinct: for the interaction of power and resistance, which mimes the mutual contamination and transmutation of Freud 's death-drive and pleasure principle, also operates as a simulacrum of the ungraspable, vacillating manoeuvres of Foucault 's formulations of history.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: agency
+Key: 42D.d032.s002.t017
+Sentence: Although in no sense a general theory, Foucault 's notion of power reformulates the problem of agency and determinism which had beset Sartre and many others by focusing on the possibility of making intelligible the strategies and techniques of local operations of power without relying on the dialectic of ideology and the consciousness of subjects, or on their corollary, the assumption that power operates globally and homogeneously.
+Prediction: noun.state
+Actual Sense: noun.state
+
+Target word: agency
+Key: 42D.d032.s004.t021
+Sentence: If this causes difficulties for some, Foucault 's scepticism with regard to the tendency to inflate the effect of individual agency can only be compared to the position of many Marxisms in which resistance and revolution are hardly the privilege of the individual as such, but rather of collective class action.
+Prediction: noun.state
+Actual Sense: noun.state
+
+Target word: dust
+Key: 42D.d033.s000.t012
+Sentence: Soon the density becomes great enough for the spheres of gas and dust to collapse and start individual nuclear reactions.
+Prediction: noun.substance
+Actual Sense: noun.substance
+
+Target word: out
+Key: 42D.d033.s006.t024
+Sentence: The imploding discs of cosmic matter are rotating, and as the pressure increases the rotation speeds up like a flywheel, ultimately flinging matter out into space.
+Prediction: adv.all
+Actual Sense: adv.all
+
+Target word: embryonic
+Key: 42D.d033.s008.t012
+Sentence: Material from the rest of the cloud globule continually falls into the embryonic sun, building up further mass, pressure and temperature, soon reaching thousands of degrees centigrade and beginning to glow like the T Tauri stars (glowing clouds of dense cosmic dust), which astronomers now think are the typical intermediate link between the dark globules and fully formed stars.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: violent
+Key: 42D.d034.s006.t011
+Sentence: Warning was given that the ‘ Reds ’ were planning a violent demonstration to disrupt the proceedings.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: revelation
+Key: 42D.d035.s000.t022
+Sentence: To treat the Christian story in this way was to produce the phenomenon of Gnosticism in which a claim to disclose secret revelation is combined with a mixing of myths and rites drawn from a variety of religious traditions.
+Prediction: noun.communication
+Actual Sense: noun.communication
+
+Target word: Occultism
+Key: 42D.d035.s002.t000
+Sentence: Occultism and oriental mysticism became fused with astrology, magic, cabbalistic elements from Jewish tradition, a pessimistic reading of Plato 's doctrine that man 's true home does not lie in this bodily realm, above all the catalyst of the Christian understanding of redemption in Christ.
+Prediction: noun.cognition
+Actual Sense: noun.cognition
+
+Target word: bodily
+Key: 42D.d035.s002.t034
+Sentence: Occultism and oriental mysticism became fused with astrology, magic, cabbalistic elements from Jewish tradition, a pessimistic reading of Plato 's doctrine that man 's true home does not lie in this bodily realm, above all the catalyst of the Christian understanding of redemption in Christ.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: humanity
+Key: 42D.d035.s004.t004
+Sentence: The huge majority of humanity are earthy clods for whom no hope may be entertained.
+Prediction: noun.animal
+Actual Sense: noun.animal
+
+Target word: Apostles
+Key: 42D.d035.s005.t023
+Sentence: Most of the Gnostic sects claimed to be Christian; that is, to represent the secret tradition which Jesus had taught the Apostles in private.
+Prediction: noun.person
+Actual Sense: noun.person
+
+Target word: Thomas
+Key: 42D.d035.s006.t018
+Sentence: They collected sayings of Jesus shaped to fit their own interpretation (as in the Coptic Gospel of Thomas), and offered their adherents an alternative or rival form of Christianity.
+Prediction: noun.person
+Actual Sense: noun.person
+
+Target word: throne
+Key: 42D.d036.s002.t016
+Sentence: After all, none of Henri II 's three sons, all of whom sat on the French throne, and all of whom were products of the same education as Mary, was in any way an impressive or successful ruler.
+Prediction: noun.act
+Actual Sense: noun.act
+
+Target word: products
+Key: 42D.d036.s002.t023
+Sentence: After all, none of Henri II 's three sons, all of whom sat on the French throne, and all of whom were products of the same education as Mary, was in any way an impressive or successful ruler.
+Prediction: noun.phenomenon
+Actual Sense: noun.phenomenon
+
+Target word: dominating
+Key: 42D.d036.s003.t007
+Sentence: Admittedly, dealing with a woman as dominating as Catherine de Medici and a family as powerful as the Guises, which all three had to do, would have put strains on personalities far stronger than Francis II, Charles IX and Henri III; but the fact remains that while, unlike Mary, they did not show indifference to their kingdom, they were exactly like her in failing to assert their control of it.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: draped
+Key: 42D.d037.s004.t010
+Sentence: Mostly they were very smart women in suits and soft draped dresses.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: duster
+Key: 42D.d037.s005.t039
+Sentence: Sally had agonised over what to wear — she was so afraid of letting Paula down — but eventually she had settled on a neat shirt - waister blouse and pencil skirt and Paula had loaned her a poplin duster coat in duck-egg blue with a thick soft grey Lucca Lamb collar.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: fur
+Key: 42D.d037.s006.t007
+Sentence: Sally felt good in it — the fur was gorgeously soft when she buried her chin in it and she thought that at least she could hold her own in the midst of all this elegance.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: buried
+Key: 42D.d037.s006.t013
+Sentence: Sally felt good in it — the fur was gorgeously soft when she buried her chin in it and she thought that at least she could hold her own in the midst of all this elegance.
+Prediction: verb.contact
+Actual Sense: verb.contact
+
+Target word: hum
+Key: 42D.d037.s007.t010
+Sentence: The background music stopped and was replaced by an expectant hum, then that too ceased as the curtains parted and a man in a dinner jacket and black bow tie stepped out onto the catwalk.
+Prediction: noun.event
+Actual Sense: noun.event
+
+Target word: bursts
+Key: 42D.d038.s003.t004
+Sentence: Slow waves appear in bursts, separated by periods of low-voltage activity of about ten seconds.
+Prediction: noun.event
+Actual Sense: noun.event
+
+Target word: displaced
+Key: 42D.d038.s004.t022
+Sentence: In the first month after full term these slow waves bursts increase in length until the low-voltage periods of quiet sleep are entirely displaced.
+Prediction: verb.motion
+Actual Sense: verb.motion
+
+Target word: normal
+Key: 42D.d038.s006.t029
+Sentence: While there has been some disagreement over the incidence of EEG spindling in neonates, the consensus of reports indicates that the development of spindles in the EEG of normal sleeping infants occurs between the end of the second month and end of the fourth, and the appearance of persistent spindling earlier or later than this time window tends to be associated with other clinical abnormalities.
+Prediction: adj.all
+Actual Sense: adj.all
+
+Target word: define
+Key: 42D.d039.s002.t008
+Sentence: In all cases the numbers obtained serve to define the position of the distribution plot, its slope, and the nature of any irregularities.
+Prediction: verb.communication
+Actual Sense: verb.communication
+
+Target word: characterization
+Key: 42D.d039.s003.t006
+Sentence: The values of these parameters permit characterization of the curves, and enable numerical comparisons to be made between samples.
+Prediction: noun.communication
+Actual Sense: noun.communication
+
+Target word: accusations
+Key: 42D.d040.s001.t004
+Sentence: She remembered only his accusations and her helplessness against them.
+Prediction: noun.communication
+Actual Sense: noun.communication
+
+Target word: consists
+Key: 42D.d041.s000.t005
+Sentence: The Cross is silver and consists of a cross flory terminated in the horizontal and base bars with flaming bombs and in the upper bar with a Tudor rose.
+Prediction: verb.stative
+Actual Sense: verb.stative
+
+Target word: roundel
+Key: 42D.d041.s001.t012
+Sentence: This is surmounted by another cross of aeroplane propellers, with a roundel within a wreath of laurels and the letters ‘ RAF ’ on a rose-winged ensign by an Imperial Crown.
+Prediction: noun.artifact
+Actual Sense: noun.artifact
+
+Target word: ensign
+Key: 42D.d041.s001.t027
+Sentence: This is surmounted by another cross of aeroplane propellers, with a roundel within a wreath of laurels and the letters ‘ RAF ’ on a rose-winged ensign by an Imperial Crown.
+Prediction: noun.communication
+Actual Sense: noun.communication
+

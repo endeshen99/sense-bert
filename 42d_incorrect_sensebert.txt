@@ -1,0 +1,1320 @@
+Target word: living
+Key: 42D.d000.s000.t004
+Sentence: The vast majority of living fish belong here (18,000 species or so), which rival the insects in their multitude of adaptations and variety of external form.
+Prediction: noun.state
+Actual Sense: adj.all
+
+Target word: belong
+Key: 42D.d000.s000.t006
+Sentence: The vast majority of living fish belong here (18,000 species or so), which rival the insects in their multitude of adaptations and variety of external form.
+Prediction: verb.possession
+Actual Sense: verb.stative
+
+Target word: depths
+Key: 42D.d000.s001.t014
+Sentence: They can live in hot springs, or can be dredged from the deepest abyssal depths of the ocean; the latter are grotesque gargoyles that seem to belong in the paintings of Hieronymus Bosch.
+Prediction: noun.cognition
+Actual Sense: noun.location
+
+Target word: fins
+Key: 42D.d000.s003.t007
+Sentence: Most have a characteristic arrangement of paired fins, but these can be lost, or fantastically modified to form fans or poisonous barbs.
+Prediction: noun.artifact
+Actual Sense: noun.animal
+
+Target word: feeders
+Key: 42D.d000.s006.t019
+Sentence: They have as wide a range of life habits as any group, from scavengers, grazers, filter feeders, vegetarians, omnivores, to fierce predators with reputations to rival that of the sharks.
+Prediction: noun.person
+Actual Sense: noun.animal
+
+Target word: predators
+Key: 42D.d000.s006.t027
+Sentence: They have as wide a range of life habits as any group, from scavengers, grazers, filter feeders, vegetarians, omnivores, to fierce predators with reputations to rival that of the sharks.
+Prediction: noun.person
+Actual Sense: noun.animal
+
+Target word: scales
+Key: 42D.d000.s007.t003
+Sentence: A coating of scales is characteristic, and the gills are covered by a movable flap (the operculum).
+Prediction: noun.communication
+Actual Sense: noun.animal
+
+Target word: flap
+Key: 42D.d000.s007.t015
+Sentence: A coating of scales is characteristic, and the gills are covered by a movable flap (the operculum).
+Prediction: verb.communication
+Actual Sense: noun.body
+
+Target word: Villas
+Key: 42D.d001.s005.t002
+Sentence: The Victorian Villas here are even more splendid than in Cheyne Walk — reminiscent of Cheltenham with their cast iron decoration.
+Prediction: noun.person
+Actual Sense: noun.artifact
+
+Target word: corner
+Key: 42D.d001.s007.t006
+Sentence: Take time to look at the corner of the Hospital wall where stands a memorial to King Edward VII surmounted by a bronze of St. George and the Dragon by the eminent sculptor Sir George Frampton.
+Prediction: noun.state
+Actual Sense: noun.artifact
+
+Target word: bill
+Key: 42D.d001.s008.t007
+Sentence: The General Hospital at the top of the bill was built by Samuel Saxon in 1793.
+Prediction: noun.artifact
+Actual Sense: noun.communication
+
+Target word: parallel
+Key: 42D.d002.s000.t014
+Sentence: In Britain, Owen and Mivart argued that many cases of evolution consisted of parallel lines of development within the same group, all driven in the same direction as though by an internally programmed force.
+Prediction: noun.attribute
+Actual Sense: adj.all
+
+Target word: fossils
+Key: 42D.d002.s002.t011
+Sentence: The American neo-Lamarckians made the same point, arguing that the fossils seemed to support a theory of directed evolution, not one based on the selection of random variation by the local environment.
+Prediction: noun.person
+Actual Sense: noun.object
+
+Target word: variation
+Key: 42D.d002.s002.t029
+Sentence: The American neo-Lamarckians made the same point, arguing that the fossils seemed to support a theory of directed evolution, not one based on the selection of random variation by the local environment.
+Prediction: noun.communication
+Actual Sense: noun.cognition
+
+Target word: specializing
+Key: 42D.d002.s003.t014
+Sentence: The inheritance of acquired characters explained these trends as a consequence of the animals specializing for a particular way of life chosen by their ancestors.
+Prediction: verb.social
+Actual Sense: verb.change
+
+Target word: senility
+Key: 42D.d002.s005.t023
+Sentence: Hyatt in particular argued that the fossil invertebrates he studied showed patterns of progressive, Lamarckian evolution followed by an inexorable decline into racial senility and extinction.
+Prediction: s
+Actual Sense: noun.attribute
+
+Target word: extinction
+Key: 42D.d002.s005.t025
+Sentence: Hyatt in particular argued that the fossil invertebrates he studied showed patterns of progressive, Lamarckian evolution followed by an inexorable decline into racial senility and extinction.
+Prediction: noun.process
+Actual Sense: noun.state
+
+Target word: characters
+Key: 42D.d002.s006.t008
+Sentence: Whole groups of organisms developed increasingly bizarre non-adaptive characters until they eventually disappeared altogether.
+Prediction: noun.cognition
+Actual Sense: noun.attribute
+
+Target word: variation
+Key: 42D.d002.s007.t016
+Sentence: By the end of the century many paleontologists supported the theory of orthogenesis, in which variation was supposed to be pushed in some preordained direction by forces built into the constitution of the organisms.
+Prediction: noun.act
+Actual Sense: noun.process
+
+Target word: terminals
+Key: 42D.d004.s004.t022
+Sentence: ‘ Our plan is that our IT systems will enable users to order direct from the supplier by electronic means from their terminals. This is the way many other forward-thinking organisations are going. ’
+Prediction: noun.location
+Actual Sense: noun.artifact
+
+Target word: partnership
+Key: 42D.d004.s006.t018
+Sentence: ‘ Our new structure is already paying dividends. We still have location-based teams but these work in partnership to make the best use of specific expertise at particular sites. We also have a small team responsible for driving corporate initiatives. For example they are looking at how the best of what other people do can be applied in the AEA. ’
+Prediction: noun.communication
+Actual Sense: noun.relation
+
+Target word: oxidized
+Key: 42D.d005.s001.t008
+Sentence: The methane of the coal seam could also be oxidized to formaldehyde, the basis of the acetal polymers, or even to higher alcohols — the other half of the polyester molecule.
+Prediction: adj.ppl
+Actual Sense: verb.change
+
+Target word: basis
+Key: 42D.d005.s001.t013
+Sentence: The methane of the coal seam could also be oxidized to formaldehyde, the basis of the acetal polymers, or even to higher alcohols — the other half of the polyester molecule.
+Prediction: noun.cognition
+Actual Sense: noun.relation
+
+Target word: alcohols
+Key: 42D.d005.s001.t023
+Sentence: The methane of the coal seam could also be oxidized to formaldehyde, the basis of the acetal polymers, or even to higher alcohols — the other half of the polyester molecule.
+Prediction: noun.food
+Actual Sense: noun.substance
+
+Target word: formed
+Key: 42D.d005.s003.t001
+Sentence: Once formed in place, they could be extracted by the Frasch process — pumping superheated stream down a borehole to blow them to the surface in molten form.
+Prediction: adj.all
+Actual Sense: verb.change
+
+Target word: blow
+Key: 42D.d005.s003.t020
+Sentence: Once formed in place, they could be extracted by the Frasch process — pumping superheated stream down a borehole to blow them to the surface in molten form.
+Prediction: verb.change
+Actual Sense: verb.motion
+
+Target word: So
+Key: 42D.d005.s004.t000
+Sentence: So DREADCO chemists are using all the cunning of modern catalytic chemistry to polymerize coal in situ.
+Prediction: adj.all
+Actual Sense: adv.all
+
+Target word: seam
+Key: 42D.d005.s007.t001
+Sentence: The seam will be converted into a vast bed of crude acetal/styrene/ester copolymer.
+Prediction: noun.artifact
+Actual Sense: noun.location
+
+Target word: crude
+Key: 42D.d005.s007.t010
+Sentence: The seam will be converted into a vast bed of crude acetal/styrene/ester copolymer.
+Prediction: noun.substance
+Actual Sense: adj.all
+
+Target word: Oil
+Key: 42D.d005.s009.t000
+Sentence: Oil and gas will provide our energy: they are good at that.
+Prediction: noun.food
+Actual Sense: noun.substance
+
+Target word: ranges
+Key: 42D.d006.s000.t007
+Sentence: It can be equally successful to use ranges of blues with silver, and whites and creams always blend well with the lighter coloured leaves.
+Prediction: noun.artifact
+Actual Sense: noun.group
+
+Target word: silver
+Key: 42D.d006.s000.t011
+Sentence: It can be equally successful to use ranges of blues with silver, and whites and creams always blend well with the lighter coloured leaves.
+Prediction: noun.substance
+Actual Sense: noun.attribute
+
+Target word: blend
+Key: 42D.d006.s000.t018
+Sentence: It can be equally successful to use ranges of blues with silver, and whites and creams always blend well with the lighter coloured leaves.
+Prediction: noun.event
+Actual Sense: verb.change
+
+Target word: colour
+Key: 42D.d006.s002.t024
+Sentence: If you have chosen a flower that is very dark and striking, make sure that at least one of the other flowers has the same colour value.
+Prediction: verb.change
+Actual Sense: noun.attribute
+
+Target word: drawn
+Key: 42D.d006.s003.t007
+Sentence: Otherwise, one 's eye will be drawn to the darkest flower or leaf in the picture, which will act as a distraction from the overall shape and impact of the picture.
+Prediction: verb.stative
+Actual Sense: verb.contact
+
+Target word: provide
+Key: 42D.d007.s000.t008
+Sentence: It, therefore, has two schemes that provide for longer terms funding for particular departments to build up a research programme in a particular area: there are now 150 of these groups at German universities.
+Prediction: verb.social
+Actual Sense: verb.stative
+
+Target word: programme
+Key: 42D.d007.s000.t020
+Sentence: It, therefore, has two schemes that provide for longer terms funding for particular departments to build up a research programme in a particular area: there are now 150 of these groups at German universities.
+Prediction: noun.act
+Actual Sense: noun.cognition
+
+Target word: grand
+Key: 42D.d007.s006.t006
+Sentence: A much quoted observation by one grand old man of German science policy, Professor Heinz Maier Leibnitz, points out that German researchers who have done well in stints in the US tend to stagnate when they return to the German system.
+Prediction: noun.artifact
+Actual Sense: adj.all
+
+Target word: Turning over
+Key: 42D.d008.s000.t000
+Sentence: Turning over the machine reveals the high and low speed switch on the top.
+Prediction: s
+Actual Sense: verb.contact
+
+Target word: sits
+Key: 42D.d008.s002.t004
+Sentence: Just behind this control sits the chuck key holder.
+Prediction: verb.social
+Actual Sense: verb.stative
+
+Target word: chuck
+Key: 42D.d008.s002.t006
+Sentence: Just behind this control sits the chuck key holder.
+Prediction: adj.all
+Actual Sense: noun.artifact
+
+Target word: screws
+Key: 42D.d008.s004.t009
+Sentence: After driving an estimated 250 of the 20 mm screws, the drill was still going strong.
+Prediction: noun.person
+Actual Sense: noun.artifact
+
+Target word: range
+Key: 42D.d008.s005.t008
+Sentence: Makita has published estimated performance figures with a range of screws/bits, into a variety of materials, in the instruction booklet.
+Prediction: noun.attribute
+Actual Sense: noun.group
+
+Target word: screws
+Key: 42D.d008.s005.t010
+Sentence: Makita has published estimated performance figures with a range of screws/bits, into a variety of materials, in the instruction booklet.
+Prediction: verb.competition
+Actual Sense: noun.artifact
+
+Target word: bits
+Key: 42D.d008.s005.t012
+Sentence: Makita has published estimated performance figures with a range of screws/bits, into a variety of materials, in the instruction booklet.
+Prediction: noun.time
+Actual Sense: noun.artifact
+
+Target word: toggle
+Key: 42D.d008.s010.t013
+Sentence: Some parts of the switchgear worked well, such as the forward/reverse toggle, with FWD and REV etched on the sides of the body so the drill did not have to be constantly turned upside down.
+Prediction: verb.contact
+Actual Sense: noun.artifact
+
+Target word: body
+Key: 42D.d008.s010.t025
+Sentence: Some parts of the switchgear worked well, such as the forward/reverse toggle, with FWD and REV etched on the sides of the body so the drill did not have to be constantly turned upside down.
+Prediction: noun.artifact
+Actual Sense: noun.attribute
+
+Target word: dressings
+Key: 42D.d009.s000.t007
+Sentence: During this three-year period they applied two dressings of farmyard manure and in the intervening year they applied an indigenous legume crop as green manure.
+Prediction: noun.cognition
+Actual Sense: noun.event
+
+Target word: fertility
+Key: 42D.d009.s001.t016
+Sentence: This system enabled them to maintain an exceptionally dense population, on the best principles of fertility conservation.
+Prediction: noun.attribute
+Actual Sense: noun.state
+
+Target word: production
+Key: 42D.d009.s002.t013
+Sentence: The Wakara were not exceptional in combining the ownership of livestock with crop production, but they were exceptional in integrating the two.
+Prediction: noun.communication
+Actual Sense: noun.quantity
+
+Target word: production
+Key: 42D.d009.s003.t037
+Sentence: Other African communities, such as the Lozi on the Barotse floodplain in western Zambia, and, on a smaller scale the Yoruba in western Nigeria, maintained livestock herds which were essentially secondary to their crop production, providing manure for crops on an ad hoc basis.
+Prediction: noun.communication
+Actual Sense: noun.quantity
+
+Target word: crops
+Key: 42D.d009.s003.t042
+Sentence: Other African communities, such as the Lozi on the Barotse floodplain in western Zambia, and, on a smaller scale the Yoruba in western Nigeria, maintained livestock herds which were essentially secondary to their crop production, providing manure for crops on an ad hoc basis.
+Prediction: noun.artifact
+Actual Sense: noun.plant
+
+Target word: ad hoc
+Key: 42D.d009.s003.t045
+Sentence: Other African communities, such as the Lozi on the Barotse floodplain in western Zambia, and, on a smaller scale the Yoruba in western Nigeria, maintained livestock herds which were essentially secondary to their crop production, providing manure for crops on an ad hoc basis.
+Prediction: s
+Actual Sense: adj.all
+
+Target word: true
+Key: 42D.d009.s004.t001
+Sentence: The true pastoralists, such as the Fulani, the Dinka of southern Sudan and the Masai of the east African plains were in a different category.
+Prediction: adv.all
+Actual Sense: adj.all
+
+Target word: production
+Key: 42D.d009.s006.t008
+Sentence: They might make an incidental contribution to crop production by agreeing to graze their herds over settled farmers ' land once it had been harvested.
+Prediction: noun.act
+Actual Sense: noun.quantity
+
+Target word: graze
+Key: 42D.d009.s006.t012
+Sentence: They might make an incidental contribution to crop production by agreeing to graze their herds over settled farmers ' land once it had been harvested.
+Prediction: verb.consumption
+Actual Sense: verb.contact
+
+Target word: settled
+Key: 42D.d009.s006.t016
+Sentence: They might make an incidental contribution to crop production by agreeing to graze their herds over settled farmers ' land once it had been harvested.
+Prediction: verb.motion
+Actual Sense: adj.all
+
+Target word: extinction
+Key: 42D.d010.s002.t011
+Sentence: Large numbers of rare and beautiful Alpine plants are threatened with extinction.
+Prediction: noun.cognition
+Actual Sense: noun.state
+
+Target word: programme
+Key: 42D.d010.s004.t017
+Sentence: Alp Action is to launch a number of conservation projects, including reforestation, together with a public education programme.
+Prediction: noun.act
+Actual Sense: noun.cognition
+
+Target word: Alpine
+Key: 42D.d010.s005.t006
+Sentence: It will operate in all the Alpine countries (Germany, France, Switzerland, Italy, Austria and Liechtenstein).
+Prediction: adj.all
+Actual Sense: adj.pert
+
+Target word: lynx
+Key: 42D.d010.s006.t013
+Sentence: Specific plans include the reintroduction of captive-bred brown bears to Austria, and European lynx to the eastern Alps.
+Prediction: noun.communication
+Actual Sense: noun.animal
+
+Target word: stabilise
+Key: 42D.d010.s008.t012
+Sentence: The organization also plans anti-erosion hedging in Liechtenstein, and moves to stabilise the level of France 's Lac Lamoura, where several rare fish species are under imminent threat.
+Prediction: verb.contact
+Actual Sense: verb.change
+
+Target word: baited
+Key: 42D.d011.s000.t006
+Sentence: On waters which can not be baited from a boat, and where swims are too distant to be fed by catapult, the use of a swimfeeder to distribute loose feed around the hookbait is often a deadly method.
+Prediction: verb.competition
+Actual Sense: verb.social
+
+Target word: cork
+Key: 42D.d011.s001.t017
+Sentence: Where the bottom is weedy (ordinary soft weed, not algae) you can incorporate a cork or piece of polystyrene into the feeder to keep it on top of the weed.
+Prediction: noun.substance
+Actual Sense: noun.artifact
+
+Target word: experiment
+Key: 42D.d011.s002.t008
+Sentence: I invariably use two rods, one to experiment with baits and methods, and to cast in different areas in and around the swim.
+Prediction: noun.cognition
+Actual Sense: verb.social
+
+Target word: baits
+Key: 42D.d011.s002.t010
+Sentence: I invariably use two rods, one to experiment with baits and methods, and to cast in different areas in and around the swim.
+Prediction: verb.communication
+Actual Sense: noun.artifact
+
+Target word: bite
+Key: 42D.d011.s004.t009
+Sentence: Very often it is this rod that gets a bite.
+Prediction: noun.act
+Actual Sense: noun.event
+
+Target word: bream
+Key: 42D.d011.s006.t002
+Sentence: In every bream swim there is one very small area which will produce more bream than all the rest of the swim put together.
+Prediction: noun.food
+Actual Sense: noun.animal
+
+Target word: bream
+Key: 42D.d011.s006.t014
+Sentence: In every bream swim there is one very small area which will produce more bream than all the rest of the swim put together.
+Prediction: noun.food
+Actual Sense: noun.animal
+
+Target word: implanted
+Key: 42D.d011.s007.t038
+Sentence: If you take care to note landmarks on the far bank, use a swim marker to aid judgment, and make sure you have noted the exact spot, every time you cast you will soon have this area firmly implanted in your mind.
+Prediction: verb.contact
+Actual Sense: verb.cognition
+
+Target word: lager
+Key: 42D.d012.s000.t012
+Sentence: As brewers pay lower rates of excise duty on weaker beers, lager is a highly profitable business for the giant brewing combines.
+Prediction: noun.artifact
+Actual Sense: noun.food
+
+Target word: keg
+Key: 42D.d012.s001.t010
+Sentence: CAMRA is also concerned at the way in which many keg beers are brewed and the ingredients used.
+Prediction: s
+Actual Sense: noun.artifact
+
+Target word: boiling
+Key: 42D.d012.s002.t002
+Sentence: Mashing, boiling and fermentation are often speeded up in large breweries using such devices as continuous fermentation and high gravity brewing, both of which produce standardised bland beers of mediocre quality.
+Prediction: verb.motion
+Actual Sense: noun.act
+
+Target word: speeded up
+Key: 42D.d012.s002.t007
+Sentence: Mashing, boiling and fermentation are often speeded up in large breweries using such devices as continuous fermentation and high gravity brewing, both of which produce standardised bland beers of mediocre quality.
+Prediction: s
+Actual Sense: verb.change
+
+Target word: speed
+Key: 42D.d012.s003.t004
+Sentence: In order to further speed and cheapen the process, inferior ingredients such as maize, rice, triticale, wheat flour and potato starch are used and helped on their way by chemicals that hasten fermentation, cut down on the yeast head in the vessels to allow more wort to be treated, and to give a lively fake head to the finished product.
+Prediction: verb.motion
+Actual Sense: verb.change
+
+Target word: head
+Key: 42D.d012.s003.t040
+Sentence: In order to further speed and cheapen the process, inferior ingredients such as maize, rice, triticale, wheat flour and potato starch are used and helped on their way by chemicals that hasten fermentation, cut down on the yeast head in the vessels to allow more wort to be treated, and to give a lively fake head to the finished product.
+Prediction: noun.cognition
+Actual Sense: noun.object
+
+Target word: head
+Key: 42D.d012.s003.t058
+Sentence: In order to further speed and cheapen the process, inferior ingredients such as maize, rice, triticale, wheat flour and potato starch are used and helped on their way by chemicals that hasten fermentation, cut down on the yeast head in the vessels to allow more wort to be treated, and to give a lively fake head to the finished product.
+Prediction: noun.cognition
+Actual Sense: noun.object
+
+Target word: classified
+Key: 42D.d012.s004.t002
+Sentence: Beer is classified as a foodstuff and yet it is excluded from the legal requirements to list ingredients.
+Prediction: noun.communication
+Actual Sense: verb.cognition
+
+Target word: foodstuff
+Key: 42D.d012.s004.t005
+Sentence: Beer is classified as a foodstuff and yet it is excluded from the legal requirements to list ingredients.
+Prediction: s
+Actual Sense: noun.food
+
+Target word: attained
+Key: 42D.d013.s000.t010
+Sentence: The first cairned top, High Pike Hill, is then quickly attained and soon the rim of cliffs trends due south, giving direction to the walk and providing aerial views of Mallerstang below.
+Prediction: verb.possession
+Actual Sense: verb.motion
+
+Target word: range
+Key: 42D.d013.s001.t038
+Sentence: Peat hags, typical of the Pennine uplands and indicating a gritstone base, mark the way but the walking is easy to the next prominent top, High Seat, at 2328 feet the highest point on the range.
+Prediction: noun.artifact
+Actual Sense: noun.object
+
+Target word: surmounted
+Key: 42D.d013.s002.t014
+Sentence: Beyond, the Edge becomes less well defined and is succeeded by steep slopes, surmounted by inclining eastwards and following the county boundary and the watershed and keeping always to the height of land in surroundings of utter desolation yet of profound influence on the landscape, for three major rivers have their source hereabouts: the streams flowing east are tributaries of the River Swale, those to the west drain an area known as Eden Springs, the source of the River Eden, and a short distance to the south are the beginnings of the River Ure.
+Prediction: verb.stative
+Actual Sense: verb.motion
+
+Target word: turning point
+Key: 42D.d013.s003.t011
+Sentence: The next felltop reached is Hugh Seat, 2257 feet, the turning point of the walk: high ground continues but then gradually declines into Wensleydale.
+Prediction: s
+Actual Sense: noun.artifact
+
+Target word: continues
+Key: 42D.d013.s003.t018
+Sentence: The next felltop reached is Hugh Seat, 2257 feet, the turning point of the walk: high ground continues but then gradually declines into Wensleydale.
+Prediction: verb.change
+Actual Sense: verb.stative
+
+Target word: declines
+Key: 42D.d013.s003.t022
+Sentence: The next felltop reached is Hugh Seat, 2257 feet, the turning point of the walk: high ground continues but then gradually declines into Wensleydale.
+Prediction: noun.state
+Actual Sense: verb.motion
+
+Target word: defence
+Key: 42D.d014.s000.t002
+Sentence: The successful defence of Londonderry and the victory at the Boyne in 1690 became immovable parts of the Protestant tradition; the Treaty of Limerick and the Protestant failure to honour the treaty 's promises of religious toleration became unforgettable parts of the Catholic view of the history of Ireland.
+Prediction: noun.process
+Actual Sense: noun.act
+
+Target word: honour
+Key: 42D.d014.s000.t028
+Sentence: The successful defence of Londonderry and the victory at the Boyne in 1690 became immovable parts of the Protestant tradition; the Treaty of Limerick and the Protestant failure to honour the treaty 's promises of religious toleration became unforgettable parts of the Catholic view of the history of Ireland.
+Prediction: noun.attribute
+Actual Sense: verb.social
+
+Target word: North America
+Key: 42D.d014.s001.t001
+Sentence: In North America these struggles were not so clear-cut.
+Prediction: s
+Actual Sense: noun.group
+
+Target word: Dominion
+Key: 42D.d014.s002.t002
+Sentence: James 's Dominion of New England collapsed almost at once.
+Prediction: noun.state
+Actual Sense: noun.group
+
+Target word: New York
+Key: 42D.d014.s004.t047
+Sentence: Whether because people really did not know how to interpret the revolution in England or because they wanted fairly complete independence and correctly suspected that William was going to exercise much the same overall powers as Charles and James had done, there was a revolt in New York that took some months to suppress and the colonists of Massachusetts at the beginning of the 1690s were no more reconciled to English rule than in the past.
+Prediction: s
+Actual Sense: noun.location
+
+Target word: rule
+Key: 42D.d014.s004.t071
+Sentence: Whether because people really did not know how to interpret the revolution in England or because they wanted fairly complete independence and correctly suspected that William was going to exercise much the same overall powers as Charles and James had done, there was a revolt in New York that took some months to suppress and the colonists of Massachusetts at the beginning of the 1690s were no more reconciled to English rule than in the past.
+Prediction: noun.cognition
+Actual Sense: noun.state
+
+Target word: Hardy
+Key: 42D.d015.s003.t007
+Sentence: Even after the success of Far From the Madding Crowd, Hardy was reluctant to be regarded solely as a writer of rural stories.
+Prediction: adj.all
+Actual Sense: noun.person
+
+Target word: critical
+Key: 42D.d016.s001.t007
+Sentence: And it 's easy to see why critical acclaim was so forthcoming.
+Prediction: adj.all
+Actual Sense: adj.pert
+
+Target word: musical
+Key: 42D.d016.s002.t007
+Sentence: Jamiroquai had ingeniously redefined his obvious past musical influences, recreating a sound and style that emerged as both progressive and modern.
+Prediction: noun.communication
+Actual Sense: adj.all
+
+Target word: jazz
+Key: 42D.d016.s003.t005
+Sentence: ‘ It 's not pure jazz and it ai n't pure funk, ’ he explains.
+Prediction: verb.contact
+Actual Sense: noun.communication
+
+Target word: drawing
+Key: 42D.d016.s004.t011
+Sentence: ‘ It could be defined more as a jazz-funk fusion, drawing from influences as far apart as Miles Davis and Parliament. By taking elements from the two and learning how to play them live together, it 's what I 'd call a real fusion. ’
+Prediction: verb.stative
+Actual Sense: verb.contact
+
+Target word: call
+Key: 42D.d016.s004.t042
+Sentence: ‘ It could be defined more as a jazz-funk fusion, drawing from influences as far apart as Miles Davis and Parliament. By taking elements from the two and learning how to play them live together, it 's what I 'd call a real fusion. ’
+Prediction: verb.communication
+Actual Sense: verb.cognition
+
+Target word: musical
+Key: 42D.d016.s005.t022
+Sentence: Now signed to Sony for an eight-album deal, Jamiroquai is adamant that he will not be called upon to compromise his musical philosophies, relishing the fact that the lengthy deal will enable him to take his experimental visions further.
+Prediction: adj.pert
+Actual Sense: adj.all
+
+Target word: Christmas tree
+Key: 42D.d017.s000.t009
+Sentence: I feel like the fairy on top of the Christmas tree.
+Prediction: s
+Actual Sense: noun.artifact
+
+Target word: dick
+Key: 42D.d017.s004.t011
+Sentence: There are jokes about criss-cross patterns on the end of your dick, not to mention nylon rashes.
+Prediction: noun.person
+Actual Sense: noun.body
+
+Target word: net
+Key: 42D.d018.s000.t034
+Sentence: Dundee did deservedly edge in front in the 12th minute when Gary McKeown curled in a cross from the right and defender Gary Paterson was allowed to chest the ball down before hooking it high into the net.
+Prediction: adj.all
+Actual Sense: noun.artifact
+
+Target word: block
+Key: 42D.d018.s002.t012
+Sentence: Britain 's costliest player rounded the keeper but Duffy got back to block the former Dundee United man 's acute angled effort.
+Prediction: noun.artifact
+Actual Sense: verb.competition
+
+Target word: convert
+Key: 42D.d018.s004.t011
+Sentence: Either side of the interval the tiny striker had chances to convert simple headers but pushed one wide of the post and saw Maxwell claw the other over the bar.
+Prediction: verb.change
+Actual Sense: verb.competition
+
+Target word: post
+Key: 42D.d018.s004.t020
+Sentence: Either side of the interval the tiny striker had chances to convert simple headers but pushed one wide of the post and saw Maxwell claw the other over the bar.
+Prediction: noun.artifact
+Actual Sense: noun.communication
+
+Target word: aviation
+Key: 42D.d019.s004.t009
+Sentence: So the challenge to keep abreast of technological developments in aviation was one I entered into with considerable enthusiasm when I was appointed Deputy Chief Inspector in 1967.
+Prediction: noun.group
+Actual Sense: noun.cognition
+
+Target word: west
+Key: 42D.d020.s002.t007
+Sentence: The other three aims were much further west and were determined by geography.
+Prediction: noun.location
+Actual Sense: noun.relation
+
+Target word: base
+Key: 42D.d020.s003.t005
+Sentence: Rommel had been forced to base his supply operation well to his rear, using the Tunisian ports of Sfax and Gabes.
+Prediction: adj.all
+Actual Sense: verb.stative
+
+Target word: Tunisian
+Key: 42D.d020.s003.t016
+Sentence: Rommel had been forced to base his supply operation well to his rear, using the Tunisian ports of Sfax and Gabes.
+Prediction: noun.person
+Actual Sense: adj.pert
+
+Target word: bunkers
+Key: 42D.d020.s007.t008
+Sentence: Montgomery wanted a reconnaissance of this stretch of bunkers and anti-tank ditches to see if it was being put into a state of defence and if it could be outflanked to the south.
+Prediction: verb.possession
+Actual Sense: noun.artifact
+
+Target word: defence
+Key: 42D.d020.s007.t023
+Sentence: Montgomery wanted a reconnaissance of this stretch of bunkers and anti-tank ditches to see if it was being put into a state of defence and if it could be outflanked to the south.
+Prediction: noun.communication
+Actual Sense: noun.act
+
+Target word: south
+Key: 42D.d020.s007.t032
+Sentence: Montgomery wanted a reconnaissance of this stretch of bunkers and anti-tank ditches to see if it was being put into a state of defence and if it could be outflanked to the south.
+Prediction: adv.all
+Actual Sense: noun.relation
+
+Target word: intervals
+Key: 42D.d021.s005.t018
+Sentence: To overcome this, a new method of relaying information was devised: collecting points were established at intervals some 550 m/600 yds behind the front line.
+Prediction: noun.cognition
+Actual Sense: noun.attribute
+
+Target word: general
+Key: 42D.d021.s006.t012
+Sentence: There, specially trained officers correlated all incoming information before signalling a general report to the rear.
+Prediction: verb.communication
+Actual Sense: adj.all
+
+Target word: gas
+Key: 42D.d021.s007.t011
+Sentence: Other manual methods of signalling included flags, arc lights operated by gas, and heliographs whose flashing signals could be read by telescope.
+Prediction: noun.artifact
+Actual Sense: noun.substance
+
+Target word: information
+Key: 42D.d022.s000.t006
+Sentence: Fourth, this rich and complex information environment is worthless unless users can easily find their way around it, locating and accessing the information they require.
+Prediction: noun.cognition
+Actual Sense: noun.group
+
+Target word: information
+Key: 42D.d022.s000.t024
+Sentence: Fourth, this rich and complex information environment is worthless unless users can easily find their way around it, locating and accessing the information they require.
+Prediction: noun.cognition
+Actual Sense: noun.group
+
+Target word: platforms
+Key: 42D.d022.s001.t010
+Sentence: These factors tend to dictate the character of successful multimedia platforms.
+Prediction: noun.communication
+Actual Sense: noun.artifact
+
+Target word: information
+Key: 42D.d022.s003.t028
+Sentence: The demanding processing requirements imply very fast, high performance computers, probably equipped with special chip sets either to compress and decompress the fast-changing, high volume information flows or to digitise sources of information drawn into the multimedia environment which are not initially in digital form.
+Prediction: noun.attribute
+Actual Sense: noun.group
+
+Target word: information
+Key: 42D.d022.s003.t035
+Sentence: The demanding processing requirements imply very fast, high performance computers, probably equipped with special chip sets either to compress and decompress the fast-changing, high volume information flows or to digitise sources of information drawn into the multimedia environment which are not initially in digital form.
+Prediction: noun.attribute
+Actual Sense: noun.group
+
+Target word: drawn
+Key: 42D.d022.s003.t036
+Sentence: The demanding processing requirements imply very fast, high performance computers, probably equipped with special chip sets either to compress and decompress the fast-changing, high volume information flows or to digitise sources of information drawn into the multimedia environment which are not initially in digital form.
+Prediction: verb.creation
+Actual Sense: verb.contact
+
+Target word: digital
+Key: 42D.d022.s003.t046
+Sentence: The demanding processing requirements imply very fast, high performance computers, probably equipped with special chip sets either to compress and decompress the fast-changing, high volume information flows or to digitise sources of information drawn into the multimedia environment which are not initially in digital form.
+Prediction: noun.quantity
+Actual Sense: adj.all
+
+Target word: display
+Key: 42D.d022.s004.t002
+Sentence: Output and display requirements dictate architectures which support high-resolution colour graphics, can display both RGB (‘ Red-Green-Blue ’, the colour screen standard in which the three basic colours remain individually controllable) and composite video information, and provide an audio capability able to handle anything from a feeble bleep to high fidelity stereo.
+Prediction: noun.act
+Actual Sense: noun.artifact
+
+Target word: colours
+Key: 42D.d022.s004.t030
+Sentence: Output and display requirements dictate architectures which support high-resolution colour graphics, can display both RGB (‘ Red-Green-Blue ’, the colour screen standard in which the three basic colours remain individually controllable) and composite video information, and provide an audio capability able to handle anything from a feeble bleep to high fidelity stereo.
+Prediction: adj.all
+Actual Sense: noun.attribute
+
+Target word: information
+Key: 42D.d022.s004.t038
+Sentence: Output and display requirements dictate architectures which support high-resolution colour graphics, can display both RGB (‘ Red-Green-Blue ’, the colour screen standard in which the three basic colours remain individually controllable) and composite video information, and provide an audio capability able to handle anything from a feeble bleep to high fidelity stereo.
+Prediction: noun.attribute
+Actual Sense: noun.group
+
+Target word: kin
+Key: 42D.d023.s000.t009
+Sentence: Third, most families maintain close relationships with their kin in Pakistan, consulting the head of the family about important decisions, sending money back for the purchase of land and visiting the home country as often as possible.
+Prediction: noun.person
+Actual Sense: noun.group
+
+Target word: structure
+Key: 42D.d023.s001.t002
+Sentence: The patriarchal structure of most families reinforces the integration of the whole unit.
+Prediction: noun.attribute
+Actual Sense: noun.group
+
+Target word: goods
+Key: 42D.d023.s003.t024
+Sentence: In sum, Pakistani immigrants in Rochdale maintain very close links with members of their family, distant or near, through exchanges of goods and services, loans of money in times of need, active social contact and advice (or instruction) on important decisions.
+Prediction: noun.attribute
+Actual Sense: noun.artifact
+
+Target word: relationship
+Key: 42D.d023.s004.t053
+Sentence: The intensity of these family relationships, and the importance of maintaining family and wider connections in Pakistan, are shown in the continuance in Britain of the Pakistani institution of Biraderi which governs obligations to relatives and non-relatives outside the immediate family: ‘ Biraderi includes all the men who can trace their relationship to a common ancestor, no matter how remote. ’
+Prediction: noun.state
+Actual Sense: noun.relation
+
+Target word: remote
+Key: 42D.d023.s004.t061
+Sentence: The intensity of these family relationships, and the importance of maintaining family and wider connections in Pakistan, are shown in the continuance in Britain of the Pakistani institution of Biraderi which governs obligations to relatives and non-relatives outside the immediate family: ‘ Biraderi includes all the men who can trace their relationship to a common ancestor, no matter how remote. ’
+Prediction: noun.artifact
+Actual Sense: adj.all
+
+Target word: white
+Key: 42D.d024.s002.t007
+Sentence: Karpov played a relatively recent refinement of white 's play on the seventh move.
+Prediction: verb.change
+Actual Sense: noun.artifact
+
+Target word: play
+Key: 42D.d024.s002.t009
+Sentence: Karpov played a relatively recent refinement of white 's play on the seventh move.
+Prediction: verb.social
+Actual Sense: noun.act
+
+Target word: weakening
+Key: 42D.d024.s004.t008
+Sentence: On move 11 Short had to allow a weakening of his pawn structure and then he chose to sacrifice a pawn instead of defending an endgame and struggling for a draw.
+Prediction: adj.all
+Actual Sense: noun.act
+
+Target word: pawn
+Key: 42D.d024.s004.t011
+Sentence: On move 11 Short had to allow a weakening of his pawn structure and then he chose to sacrifice a pawn instead of defending an endgame and struggling for a draw.
+Prediction: verb.possession
+Actual Sense: noun.artifact
+
+Target word: pawn
+Key: 42D.d024.s004.t019
+Sentence: On move 11 Short had to allow a weakening of his pawn structure and then he chose to sacrifice a pawn instead of defending an endgame and struggling for a draw.
+Prediction: verb.possession
+Actual Sense: noun.artifact
+
+Target word: draw
+Key: 42D.d024.s004.t029
+Sentence: On move 11 Short had to allow a weakening of his pawn structure and then he chose to sacrifice a pawn instead of defending an endgame and struggling for a draw.
+Prediction: verb.creation
+Actual Sense: noun.event
+
+Target word: went for
+Key: 42D.d024.s006.t005
+Sentence: As time trouble approached, Short went for a wild kingside attack, but Karpov played well and it was Short 's king which proved the weaker.
+Prediction: s
+Actual Sense: verb.competition
+
+Target word: wild
+Key: 42D.d024.s006.t007
+Sentence: As time trouble approached, Short went for a wild kingside attack, but Karpov played well and it was Short 's king which proved the weaker.
+Prediction: noun.location
+Actual Sense: adj.all
+
+Target word: apart
+Key: 42D.d025.s001.t017
+Sentence: They occur in areas where the Earth's crust is subjected to tensional forces, trying to pull it apart.
+Prediction: adj.all
+Actual Sense: adv.all
+
+Target word: gaping
+Key: 42D.d025.s002.t010
+Sentence: Where this happens, the crust may actually break, gaping open in long, narrow, slot-like vertical cracks.
+Prediction: verb.contact
+Actual Sense: verb.stative
+
+Target word: forming
+Key: 42D.d025.s003.t011
+Sentence: At the surface these cracks may remain open and empty, forming deep clefts, but deeper down, magma forces its way up into the crack, widening it considerably by hydraulically wedging the walls apart.
+Prediction: verb.creation
+Actual Sense: verb.change
+
+Target word: clefts
+Key: 42D.d025.s003.t013
+Sentence: At the surface these cracks may remain open and empty, forming deep clefts, but deeper down, magma forces its way up into the crack, widening it considerably by hydraulically wedging the walls apart.
+Prediction: verb.contact
+Actual Sense: noun.object
+
+Target word: wedging
+Key: 42D.d025.s003.t033
+Sentence: At the surface these cracks may remain open and empty, forming deep clefts, but deeper down, magma forces its way up into the crack, widening it considerably by hydraulically wedging the walls apart.
+Prediction: s
+Actual Sense: verb.contact
+
+Target word: walls
+Key: 42D.d025.s003.t035
+Sentence: At the surface these cracks may remain open and empty, forming deep clefts, but deeper down, magma forces its way up into the crack, widening it considerably by hydraulically wedging the walls apart.
+Prediction: noun.body
+Actual Sense: noun.object
+
+Target word: form
+Key: 42D.d025.s005.t023
+Sentence: If the magma pressure is great enough, it will force its way right up the dyke to the surface, spilling out to form lava flows.
+Prediction: verb.social
+Actual Sense: verb.change
+
+Target word: activity
+Key: 42D.d025.s007.t039
+Sentence: If you reflect for a moment on which areas are likely to have rocks under tension, and where cracking and dyke intrusion are likely, you will realize that the mid-ocean ridges are hot favourites for this kind of activity.
+Prediction: noun.state
+Actual Sense: noun.process
+
+Target word: adjunct
+Key: 42D.d026.s001.t038
+Sentence: However, because conjunctions and disjuncts are not part of the propositional content of the message, they are not considered thematic in the same way as the main clause elements subject, predicator, object, complement and adjunct.
+Prediction: noun.person
+Actual Sense: noun.communication
+
+Target word: see
+Key: 42D.d026.s003.t008
+Sentence: For a fuller discussion of this subject, see Halliday (1985: Chapter 3, ‘ Clause as message ’).
+Prediction: verb.communication
+Actual Sense: verb.perception
+
+Target word: more or less
+Key: 42D.d026.s005.t029
+Sentence: The correlation does not hold in the case of marked themes as we shall see shortly, but, generally speaking, the distinction between theme and rheme is more or less identical to the traditional grammatical distinction between subject and predicate.
+Prediction: s
+Actual Sense: adv.all
+
+Target word: offences
+Key: 42D.d027.s002.t014
+Sentence: Punitive trends could be identified in the increase of maximum sentences of imprisonment for offences of violence against the person.
+Prediction: noun.feeling
+Actual Sense: noun.act
+
+Target word: tide
+Key: 42D.d027.s004.t013
+Sentence: In sentencing, indeterminacy fell out of fashion sweeping away borstal training in its tide.
+Prediction: verb.motion
+Actual Sense: noun.event
+
+Target word: erosion
+Key: 42D.d027.s005.t005
+Sentence: Detention centres survived, despite the erosion of evidence to support the ideals of retribution and deterrence which they epitomized.
+Prediction: noun.state
+Actual Sense: noun.process
+
+Target word: values
+Key: 42D.d027.s006.t003
+Sentence: The more liberal values of the 1960s were sustained in an unobtrusive, yet pervasive, climate of common attitudes shared by Home Office officials, special interest groups, and a respectable body of informed opinion.
+Prediction: noun.time
+Actual Sense: noun.cognition
+
+Target word: probation
+Key: 42D.d027.s007.t005
+Sentence: In this environment, the probation service was shaped into a recognizably national system.
+Prediction: adj.all
+Actual Sense: noun.act
+
+Target word: injuries
+Key: 42D.d027.s008.t007
+Sentence: Financial compensation became available for the first time for criminal injuries; the community service order raised hopes as an alternative to custody; and an elaborate system of parole, later greatly expanded, was instituted.
+Prediction: noun.event
+Actual Sense: noun.act
+
+Target word: expanded
+Key: 42D.d027.s008.t029
+Sentence: Financial compensation became available for the first time for criminal injuries; the community service order raised hopes as an alternative to custody; and an elaborate system of parole, later greatly expanded, was instituted.
+Prediction: adj.all
+Actual Sense: verb.change
+
+Target word: locations
+Key: 42D.d028.s003.t002
+Sentence: Dozens of locations in and around London were also used.
+Prediction: noun.act
+Actual Sense: noun.artifact
+
+Target word: takes
+Key: 42D.d028.s005.t010
+Sentence: To get all the shots needed for these quick ‘ takes ’, Lester had two cameras filming the action and a third, hidden, focusing on the faces of frowning passers-by.
+Prediction: verb.communication
+Actual Sense: noun.act
+
+Target word: caught
+Key: 42D.d028.s007.t006
+Sentence: The results were stunningly successful and caught the flavour of Sixties London and the generation gap.
+Prediction: verb.contact
+Actual Sense: verb.creation
+
+Target word: snap
+Key: 42D.d029.s002.t008
+Sentence: This time the thunder burst with a pistol-shot snap and with an equal suddenness, as if at last those swollen vessels had been punctured, the rain began to fall.
+Prediction: verb.perception
+Actual Sense: noun.event
+
+Target word: splashed
+Key: 42D.d029.s003.t004
+Sentence: The first heavy drops splashed in coin shapes on the pavement below and in their tubs the pink flowers on the forecourt dipped and swayed.
+Prediction: verb.contact
+Actual Sense: verb.perception
+
+Target word: urged on
+Key: 42D.d029.s005.t003
+Sentence: But then, urged on as it were by a series of multiple lightning flashes, it hesitated no more and, instead of increasing gradually from the first tentative shower, the water gushed forth in a vast fountain.
+Prediction: s
+Actual Sense: verb.communication
+
+Target word: forth
+Key: 42D.d029.s005.t033
+Sentence: But then, urged on as it were by a series of multiple lightning flashes, it hesitated no more and, instead of increasing gradually from the first tentative shower, the water gushed forth in a vast fountain.
+Prediction: noun.object
+Actual Sense: adv.all
+
+Target word: dashed
+Key: 42D.d029.s006.t001
+Sentence: It dashed against the windows, washing off dust in a great cleansing stream, and Wexford moved away from the glass.
+Prediction: verb.emotion
+Actual Sense: verb.contact
+
+Target word: windows
+Key: 42D.d029.s006.t004
+Sentence: It dashed against the windows, washing off dust in a great cleansing stream, and Wexford moved away from the glass.
+Prediction: noun.time
+Actual Sense: noun.artifact
+
+Target word: window
+Key: 42D.d029.s007.t014
+Sentence: The sudden flood was more like a wave than rain and it blinded the window as surely as darkness.
+Prediction: noun.time
+Actual Sense: noun.artifact
+
+Target word: accessed
+Key: 42D.d030.s001.t008
+Sentence: Abaft the after head is a large locker accessed either through a door in the head or from the cockpit.
+Prediction: verb.possession
+Actual Sense: verb.motion
+
+Target word: performance
+Key: 42D.d030.s002.t007
+Sentence: On deck the J/44 is very much a performance yacht, so the deck is laid out mainly for racing although careful thought has been given to cruising requirements.
+Prediction: noun.communication
+Actual Sense: noun.process
+
+Target word: Stowage
+Key: 42D.d030.s004.t000
+Sentence: Stowage for a Danforth-type anchor is provided in the starboard side deck close to the shroud anchorage.
+Prediction: noun.possession
+Actual Sense: noun.artifact
+
+Target word: shroud
+Key: 42D.d030.s004.t015
+Sentence: Stowage for a Danforth-type anchor is provided in the starboard side deck close to the shroud anchorage.
+Prediction: adj.all
+Actual Sense: noun.artifact
+
+Target word: screw
+Key: 42D.d030.s005.t011
+Sentence: The end of the anchor cable may be retrieved beneath a screw plate in the foredeck and attached to the anchor when the ground tackle is needed.
+Prediction: verb.competition
+Actual Sense: noun.artifact
+
+Target word: single
+Key: 42D.d030.s006.t011
+Sentence: The after legs of the bow pulpit were secured by a single bolt each — we hope that this will be remedied.
+Prediction: noun.act
+Actual Sense: adj.all
+
+Target word: gate
+Key: 42D.d030.s008.t005
+Sentence: There is a handy boarding gate in the lifelines on each side at the point of maximum beam.
+Prediction: noun.possession
+Actual Sense: noun.artifact
+
+Target word: denomination
+Key: 42D.d031.s002.t038
+Sentence: The first English gold coin was struck only in 1255 and it was not until 1344 that the country was able to begin to sustain what proved to be no more than half a millennium of minting a gold denomination in its regular coinage.
+Prediction: noun.communication
+Actual Sense: noun.group
+
+Target word: struck
+Key: 42D.d031.s005.t003
+Sentence: Gold eagles were struck to save handling so many dollar pieces, and bronze was needed to provide small change.
+Prediction: adj.all
+Actual Sense: verb.creation
+
+Target word: considered
+Key: 42D.d032.s001.t010
+Sentence: Whereas Foucault was inclined to remark that in retrospect he considered that all his work had been about power, it seems almost equally possible that his analyses of power constitute a continuing meditation on the phantasm.
+Prediction: verb.perception
+Actual Sense: verb.cognition
+
+Target word: work
+Key: 42D.d032.s001.t014
+Sentence: Whereas Foucault was inclined to remark that in retrospect he considered that all his work had been about power, it seems almost equally possible that his analyses of power constitute a continuing meditation on the phantasm.
+Prediction: noun.act
+Actual Sense: noun.artifact
+
+Target word: agency
+Key: 42D.d032.s003.t018
+Sentence: The absence of the category of consciousness inevitably plays down the role of individual subjects and thus of individual agency and resistance as a result of specific acts of will.
+Prediction: noun.act
+Actual Sense: noun.state
+
+Target word: sun
+Key: 42D.d033.s008.t013
+Sentence: Material from the rest of the cloud globule continually falls into the embryonic sun, building up further mass, pressure and temperature, soon reaching thousands of degrees centigrade and beginning to glow like the T Tauri stars (glowing clouds of dense cosmic dust), which astronomers now think are the typical intermediate link between the dark globules and fully formed stars.
+Prediction: verb.body
+Actual Sense: noun.object
+
+Target word: poll
+Key: 42D.d034.s000.t013
+Sentence: He was fighting in difficult territory and was to come bottom of the poll, beaten by Labour as well as by the Liberals who won the seat.
+Prediction: verb.contact
+Actual Sense: noun.act
+
+Target word: Labour
+Key: 42D.d034.s000.t017
+Sentence: He was fighting in difficult territory and was to come bottom of the poll, beaten by Labour as well as by the Liberals who won the seat.
+Prediction: verb.social
+Actual Sense: noun.group
+
+Target word: seat
+Key: 42D.d034.s000.t026
+Sentence: He was fighting in difficult territory and was to come bottom of the poll, beaten by Labour as well as by the Liberals who won the seat.
+Prediction: noun.location
+Actual Sense: noun.attribute
+
+Target word: columns
+Key: 42D.d034.s002.t014
+Sentence: Indeed, it had been a violent election campaign by postwar standards and the columns of papers like The Times were filled day after day by reports of ‘ Labour rowdyism ’.
+Prediction: noun.artifact
+Actual Sense: noun.communication
+
+Target word: Labour
+Key: 42D.d034.s002.t026
+Sentence: Indeed, it had been a violent election campaign by postwar standards and the columns of papers like The Times were filled day after day by reports of ‘ Labour rowdyism ’.
+Prediction: noun.act
+Actual Sense: noun.group
+
+Target word: disruptions
+Key: 42D.d034.s009.t002
+Sentence: Before long the disruptions began and the meeting became a scene of struggle and abuse.
+Prediction: noun.act
+Actual Sense: noun.state
+
+Target word: drawn
+Key: 42D.d035.s000.t032
+Sentence: To treat the Christian story in this way was to produce the phenomenon of Gnosticism in which a claim to disclose secret revelation is combined with a mixing of myths and rites drawn from a variety of religious traditions.
+Prediction: verb.cognition
+Actual Sense: verb.contact
+
+Target word: true
+Key: 42D.d035.s002.t027
+Sentence: Occultism and oriental mysticism became fused with astrology, magic, cabbalistic elements from Jewish tradition, a pessimistic reading of Plato 's doctrine that man 's true home does not lie in this bodily realm, above all the catalyst of the Christian understanding of redemption in Christ.
+Prediction: noun.attribute
+Actual Sense: adj.all
+
+Target word: home
+Key: 42D.d035.s002.t028
+Sentence: Occultism and oriental mysticism became fused with astrology, magic, cabbalistic elements from Jewish tradition, a pessimistic reading of Plato 's doctrine that man 's true home does not lie in this bodily realm, above all the catalyst of the Christian understanding of redemption in Christ.
+Prediction: noun.group
+Actual Sense: noun.state
+
+Target word: catalyst
+Key: 42D.d035.s002.t039
+Sentence: Occultism and oriental mysticism became fused with astrology, magic, cabbalistic elements from Jewish tradition, a pessimistic reading of Plato 's doctrine that man 's true home does not lie in this bodily realm, above all the catalyst of the Christian understanding of redemption in Christ.
+Prediction: noun.act
+Actual Sense: noun.person
+
+Target word: fragments
+Key: 42D.d035.s003.t037
+Sentence: A dualism of spirit and matter, mind and body, was joined with a powerful determinism or predestinarianism: the Gnostics (or ‘ people in the know ’) are the elect, their souls fragments of the divine, needing liberation from matter and the power of the planets.
+Prediction: noun.artifact
+Actual Sense: noun.communication
+
+Target word: entertained
+Key: 42D.d035.s004.t014
+Sentence: The huge majority of humanity are earthy clods for whom no hope may be entertained.
+Prediction: adj.all
+Actual Sense: verb.emotion
+
+Target word: courts
+Key: 42D.d036.s000.t018
+Sentence: It may be, therefore, that the dreamlike quality of growing up in one of the most cultured courts in Europe had its own dangers for any who experienced it.
+Prediction: noun.person
+Actual Sense: noun.group
+
+Target word: upbringing
+Key: 42D.d036.s001.t004
+Sentence: In other words, a French upbringing for the future queen of Scots was not in principle a matter for concern; but the particular nature of French royal upbringing in the mid sixteenth century may have been.
+Prediction: noun.attribute
+Actual Sense: noun.act
+
+Target word: upbringing
+Key: 42D.d036.s001.t026
+Sentence: In other words, a French upbringing for the future queen of Scots was not in principle a matter for concern; but the particular nature of French royal upbringing in the mid sixteenth century may have been.
+Prediction: noun.attribute
+Actual Sense: noun.act
+
+Target word: sat
+Key: 42D.d036.s002.t012
+Sentence: After all, none of Henri II 's three sons, all of whom sat on the French throne, and all of whom were products of the same education as Mary, was in any way an impressive or successful ruler.
+Prediction: verb.motion
+Actual Sense: verb.competition
+
+Target word: ladder
+Key: 42D.d037.s001.t027
+Sentence: When she was dressing to go out Sally was invariably unable to find the belt she wanted, one shoe had gone missing or one stocking developed a ladder.
+Prediction: noun.artifact
+Actual Sense: noun.event
+
+Target word: agonised
+Key: 42D.d037.s005.t002
+Sentence: Sally had agonised over what to wear — she was so afraid of letting Paula down — but eventually she had settled on a neat shirt - waister blouse and pencil skirt and Paula had loaned her a poplin duster coat in duck-egg blue with a thick soft grey Lucca Lamb collar.
+Prediction: s
+Actual Sense: verb.emotion
+
+Target word: music
+Key: 42D.d037.s007.t002
+Sentence: The background music stopped and was replaced by an expectant hum, then that too ceased as the curtains parted and a man in a dinner jacket and black bow tie stepped out onto the catwalk.
+Prediction: noun.act
+Actual Sense: noun.cognition
+
+Target word: stopped
+Key: 42D.d037.s007.t003
+Sentence: The background music stopped and was replaced by an expectant hum, then that too ceased as the curtains parted and a man in a dinner jacket and black bow tie stepped out onto the catwalk.
+Prediction: verb.social
+Actual Sense: verb.stative
+
+Target word: waves
+Key: 42D.d038.s002.t011
+Sentence: The neonatal infant 's EEG during quiet sleep has few slow waves, and no sleep spindles.
+Prediction: noun.event
+Actual Sense: noun.shape
+
+Target word: waves
+Key: 42D.d038.s003.t001
+Sentence: Slow waves appear in bursts, separated by periods of low-voltage activity of about ten seconds.
+Prediction: noun.event
+Actual Sense: noun.shape
+
+Target word: waves
+Key: 42D.d038.s004.t008
+Sentence: In the first month after full term these slow waves bursts increase in length until the low-voltage periods of quiet sleep are entirely displaced.
+Prediction: noun.event
+Actual Sense: noun.shape
+
+Target word: bursts
+Key: 42D.d038.s004.t009
+Sentence: In the first month after full term these slow waves bursts increase in length until the low-voltage periods of quiet sleep are entirely displaced.
+Prediction: noun.act
+Actual Sense: noun.event
+
+Target word: window
+Key: 42D.d038.s006.t058
+Sentence: While there has been some disagreement over the incidence of EEG spindling in neonates, the consensus of reports indicates that the development of spindles in the EEG of normal sleeping infants occurs between the end of the second month and end of the fourth, and the appearance of persistent spindling earlier or later than this time window tends to be associated with other clinical abnormalities.
+Prediction: noun.object
+Actual Sense: noun.time
+
+Target word: weight
+Key: 42D.d039.s000.t029
+Sentence: An important difference between conventional statistics and statistics of grain size distributions is that in the former frequency is expressed as numbers whereas in the latter it is as weight percentage.
+Prediction: noun.feeling
+Actual Sense: noun.quantity
+
+Target word: entered
+Key: 42D.d039.s001.t022
+Sentence: Two principal forms of analysis are normally used, graphical methods, in which values derived directly from plotted cumulative curves are entered into established formulae, and moment methods in which the characteristics of every grain in the sample analysed from the sedimentary deposit are used in the computation.
+Prediction: verb.stative
+Actual Sense: verb.contact
+
+Target word: moment
+Key: 42D.d039.s001.t028
+Sentence: Two principal forms of analysis are normally used, graphical methods, in which values derived directly from plotted cumulative curves are entered into established formulae, and moment methods in which the characteristics of every grain in the sample analysed from the sedimentary deposit are used in the computation.
+Prediction: adj.pert
+Actual Sense: noun.cognition
+
+Target word: plot
+Key: 42D.d039.s002.t014
+Sentence: In all cases the numbers obtained serve to define the position of the distribution plot, its slope, and the nature of any irregularities.
+Prediction: verb.cognition
+Actual Sense: noun.communication
+
+Target word: tenderness
+Key: 42D.d040.s000.t031
+Sentence: Still half dazed by shock, lashed by rage and a deeper pain she told herself was grief for Edmund, Isabel forgot the fleeting moments when FitzAlan had shown her tenderness despite his suspicions, forgot that he had asked for the truth.
+Prediction: noun.state
+Actual Sense: noun.feeling
+
+Target word: honour
+Key: 42D.d040.s002.t004
+Sentence: He had scorned her honour, but she had more than all the rest, Isabel thought bitterly.
+Prediction: verb.social
+Actual Sense: noun.attribute
+
+Target word: false
+Key: 42D.d040.s004.t021
+Sentence: She had been right not to trust him, for he seduced with soft words, with heat and passion and false promises of safety.
+Prediction: adv.all
+Actual Sense: adj.all
+
+Target word: honour
+Key: 42D.d040.s005.t003
+Sentence: There was no honour in this world of fighting and hatred and betrayal, a world that had taken everything: her family, her home, her freedom.
+Prediction: verb.social
+Actual Sense: noun.attribute
+
+Target word: flared
+Key: 42D.d040.s006.t002
+Sentence: Her anger flared higher, searing, blazing, white-hot.
+Prediction: verb.weather
+Actual Sense: verb.change
+
+Target word: sit up
+Key: 42D.d040.s008.t018
+Sentence: FitzAlan and de Villiers were glaring at each other across her, but as she made a move to sit up Isabel saw the scowl fade from Simon 's face and he reached down a hand to steady her.
+Prediction: s
+Actual Sense: verb.motion
+
+Target word: reverse
+Key: 42D.d041.s002.t002
+Sentence: On the reverse is the Royal Cypher above the date 1918.
+Prediction: noun.event
+Actual Sense: noun.artifact
+
+Target word: date
+Key: 42D.d041.s002.t008
+Sentence: On the reverse is the Royal Cypher above the date 1918.
+Prediction: verb.cognition
+Actual Sense: noun.time
+
+Target word: sprigs
+Key: 42D.d041.s003.t012
+Sentence: The Cross is suspended from a straight silver bar, ornamented with sprigs of laurel, and connected by a silver link.
+Prediction: s
+Actual Sense: noun.artifact
+
+Target word: ribbon
+Key: 42D.d041.s004.t001
+Sentence: The ribbon is 1 ¼ inch wide and was originally of violet and white alternate horizontal stripes, although as with the AFC this was changed to a diagonal format in July 1919.
+Prediction: noun.object
+Actual Sense: noun.communication
+
+Target word: carry
+Key: 42D.d041.s005.t008
+Sentence: Likewise, awards made during and since World War Two carry the date of the award on the reverse lower limb.
+Prediction: verb.stative
+Actual Sense: verb.possession
+
+Target word: date
+Key: 42D.d041.s005.t010
+Sentence: Likewise, awards made during and since World War Two carry the date of the award on the reverse lower limb.
+Prediction: noun.food
+Actual Sense: noun.time
+
+Target word: ribbon
+Key: 42D.d041.s007.t024
+Sentence: Bars are awarded in the usual way and, as is common to most awards, are depicted by a rosette worn on the ribbon if the medal is not worn.
+Prediction: noun.object
+Actual Sense: noun.artifact
+
